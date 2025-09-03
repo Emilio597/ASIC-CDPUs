@@ -1,0 +1,38 @@
+RUN_LOAD_POWER: CPU 560 Watts MEM 12 Watts FAN 30 Watts Power 816 Watts PS1 AC lost 
+Load Start:
+Linux 6.5.0-45-generic (user-2288H-V7) 	2025年04月22日 	_x86_64_	(176 CPU)
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+nvme0n1       116600.79    698501.39   1633762.63  30981661.13 21986302036 51424949796 975190848528
+
+
+Load End:
+Linux 6.5.0-45-generic (user-2288H-V7) 	2025年04月22日 	_x86_64_	(176 CPU)
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+nvme0n1       116434.75    697363.37   1636738.37  30931053.38 21986395660 51602907180 975190848528
+
+
+RUN_START_POWER: CPU 556 Watts MEM 11 Watts FAN 28 Watts Power 804 Watts PS1 AC lost 
+Run Start:
+Linux 6.5.0-45-generic (user-2288H-V7) 	2025年04月22日 	_x86_64_	(176 CPU)
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+nvme0n1       116208.95    696010.99   1633564.28  30871069.61 21986395660 51602907180 975190848528
+
+
+Run End:
+Linux 6.5.0-45-generic (user-2288H-V7) 	2025年04月22日 	_x86_64_	(176 CPU)
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+nvme0n1       116750.28    699308.09   1635912.10  30785551.89 22151912496 51820623956 975190848528
+
+
+Compress ratio : 157 
+Capacity threshold under current cps ratio      : 6401252745216 bytes 
+Remaining free space under current cps ratio    : 6127722770432 bytes 
+Capacity protection warning threshold           : 87% 
+Capacity protection read only threshold         : 94% 
+Capacity protection exit warinig threshold      : 80% 
+Capacity protection exit read only threshold    : 87% 
+Capacity protection current percentage          : 1% 

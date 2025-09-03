@@ -1,0 +1,30 @@
+RUN_LOAD_POWER: CPU 552 Watts MEM 11 Watts FAN 24 Watts Power 792 Watts PS1 AC lost 
+Load Start:
+Linux 6.5.0-45-generic (user-2288H-V7) 	2025年04月19日 	_x86_64_	(176 CPU)
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+nvme0n1       50217.43    325941.87   1158668.28  26804949.80 24324288696 86468736864 2000391484160
+
+
+Load End:
+Linux 6.5.0-45-generic (user-2288H-V7) 	2025年04月19日 	_x86_64_	(176 CPU)
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+nvme0n1       50181.33    325661.90   1159282.34  26781924.46 24324289772 86588942348 2000391484160
+
+
+RUN_START_POWER: CPU 552 Watts MEM 11 Watts FAN 24 Watts Power 780 Watts PS1 AC lost 
+Run Start:
+Linux 6.5.0-45-generic (user-2288H-V7) 	2025年04月19日 	_x86_64_	(176 CPU)
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+nvme0n1       50140.43    325396.46   1158337.42  26760094.86 24324289772 86588942348 2000391484160
+
+
+Run End:
+Linux 6.5.0-45-generic (user-2288H-V7) 	2025年04月19日 	_x86_64_	(176 CPU)
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+nvme0n1       50151.10    325483.44   1158854.77  26725672.76 24362129200 86739190512 2000391484160
+
+

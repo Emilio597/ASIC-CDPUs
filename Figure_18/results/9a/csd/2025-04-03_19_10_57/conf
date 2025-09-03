@@ -1,0 +1,42 @@
+
+--COMMAND-BEGIN--
+[cps] wrCpsSucc:50464914 wrCpsFail:1838889 wrCpsSuccRate:96% 
+[cps] wrCpsUnitTotal:201352935 wrCpsRate:51%(total) 49%(succ)
+[32m
+[OK][0m cmd "cps_stat" success (4)
+
+--COMMAND-END--
+RESULT: DAPU: Success(0)
+
+IOWriteCount                   : 420425
+IOWriteFailCount               : 0
+sysGCWriteCount                : 0
+usrGCWriteCount                : 0
+rootTotalWrSizeKB              : 1624
+rootFgWrSizeKB                 : 1624
+sysTotalWrSizeKB               : 3410592
+sysFgWrSizeKB                  : 3361056
+usrTotalWrSizeKB               : 108793728
+usrFgWrSizeKB                  : 108526176
+sysWriteWA                     : 1.01
+usrWriteWA                     : 1.00
+unalignedHostWritePowerOnCount : 0
+unalignedHostWriteTotalCount   : 0
+WrPadReadErr                   : 0
+wrUncCmdCnt                    : 0
+wrUncHitCnt                    : 0
+uaWrUncHitCnt                  : 0
+
+RESULT: DAPU: Success(0)
+Compress ratio : 192 
+Capacity threshold under current cps ratio      : 6401252745216 bytes 
+Remaining free space under current cps ratio    : 6326623588352 bytes 
+Capacity protection warning threshold           : 87% 
+Capacity protection read only threshold         : 94% 
+Capacity protection exit warinig threshold      : 80% 
+Capacity protection exit read only threshold    : 87% 
+Capacity protection current percentage          : 0% 
+6.9.0++
+qat_4xxx.ko.zst.bak
+qat_c62x.ko.zst
+compression_option=no

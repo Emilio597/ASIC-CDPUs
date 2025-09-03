@@ -1,0 +1,17 @@
+#############################write###########################
+write_job_2_0: (g=0): rw=write, bs=(R) 50.0MiB-50.0MiB, (W) 50.0MiB-50.0MiB, (T) 50.0MiB-50.0MiB, ioengine=libaio, iodepth=64
+write_job_2_1: (g=0): rw=write, bs=(R) 50.0MiB-50.0MiB, (W) 50.0MiB-50.0MiB, (T) 50.0MiB-50.0MiB, ioengine=libaio, iodepth=64
+write_job_2_2: (g=0): rw=write, bs=(R) 50.0MiB-50.0MiB, (W) 50.0MiB-50.0MiB, (T) 50.0MiB-50.0MiB, ioengine=libaio, iodepth=64
+write_job_2_3: (g=0): rw=write, bs=(R) 50.0MiB-50.0MiB, (W) 50.0MiB-50.0MiB, (T) 50.0MiB-50.0MiB, ioengine=libaio, iodepth=64
+write_job_2_4: (g=0): rw=write, bs=(R) 50.0MiB-50.0MiB, (W) 50.0MiB-50.0MiB, (T) 50.0MiB-50.0MiB, ioengine=libaio, iodepth=64
+write_job_2_5: (g=0): rw=write, bs=(R) 50.0MiB-50.0MiB, (W) 50.0MiB-50.0MiB, (T) 50.0MiB-50.0MiB, ioengine=libaio, iodepth=64
+fio-3.38-7-ga1916
+Starting 6 processes
+write_job_2_0: Laying out IO file (1 file / 409600MiB)
+write_job_2_1: Laying out IO file (1 file / 409600MiB)
+write_job_2_2: Laying out IO file (1 file / 409600MiB)
+write_job_2_3: Laying out IO file (1 file / 409600MiB)
+write_job_2_4: Laying out IO file (1 file / 409600MiB)
+write_job_2_5: Laying out IO file (1 file / 409600MiB)
+
+fio: terminating on signal 15

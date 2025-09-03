@@ -1,0 +1,41 @@
+2025-04-21 20:36:52 - CPU_Util 2.7 3.0 0.0
+2025-04-21 20:36:52 - CPU 628 Watts MEM 29 Watts FAN 52 Watts Power 912 Watts PS1 AC lost 
+2025-04-21 20:36:55 - CPU_Util 6.3 6.1 0.0
+2025-04-21 20:36:55 - CPU 640 Watts MEM 29 Watts FAN 50 Watts Power 960 Watts PS1 AC lost 
+2025-04-21 20:36:57 - CPU_Util 7.3 4.9 0.0
+2025-04-21 20:36:57 - CPU 648 Watts MEM 29 Watts FAN 52 Watts Power 936 Watts PS1 AC lost 
+2025-04-21 20:36:59 - CPU_Util 6.7 4.8 0.0
+2025-04-21 20:36:59 - CPU 632 Watts MEM 29 Watts FAN 52 Watts Power 936 Watts PS1 AC lost 
+2025-04-21 20:37:02 - CPU_Util 5.0 4.1 0.0
+2025-04-21 20:37:02 - CPU 640 Watts MEM 27 Watts FAN 52 Watts Power 948 Watts PS1 AC lost 
+2025-04-21 20:37:04 - CPU_Util 5.3 4.7 0.0
+2025-04-21 20:37:04 - CPU 624 Watts MEM 27 Watts FAN 52 Watts Power 912 Watts PS1 AC lost 
+2025-04-21 20:37:06 - CPU_Util 4.3 2.9 0.0
+2025-04-21 20:37:06 - CPU 616 Watts MEM 27 Watts FAN 50 Watts Power 912 Watts PS1 AC lost 
+2025-04-21 20:37:08 - CPU_Util 3.4 1.7 0.0
+2025-04-21 20:37:08 - CPU 604 Watts MEM 21 Watts FAN 54 Watts Power 888 Watts PS1 AC lost 
+2025-04-21 20:37:11 - CPU_Util 3.3 1.9 0.0
+2025-04-21 20:37:11 - CPU 600 Watts MEM 21 Watts FAN 52 Watts Power 876 Watts PS1 AC lost 
+2025-04-21 20:37:13 - CPU_Util 2.8 1.8 0.0
+2025-04-21 20:37:13 - CPU 600 Watts MEM 21 Watts FAN 48 Watts Power 876 Watts PS1 AC lost 
+2025-04-21 20:37:16 - CPU_Util 3.6 1.7 0.0
+2025-04-21 20:37:16 - CPU 600 Watts MEM 17 Watts FAN 50 Watts Power 876 Watts PS1 AC lost 
+2025-04-21 20:37:18 - CPU_Util 3.6 1.6 0.0
+2025-04-21 20:37:18 - CPU 600 Watts MEM 17 Watts FAN 50 Watts Power 888 Watts PS1 AC lost 
+2025-04-21 20:37:20 - CPU_Util 4.2 1.6 0.0
+2025-04-21 20:37:20 - CPU 600 Watts MEM 17 Watts FAN 52 Watts Power 888 Watts PS1 AC lost 
+2025-04-21 20:37:23 - CPU_Util 4.1 2.0 0.0
+2025-04-21 20:37:23 - CPU 604 Watts MEM 18 Watts FAN 56 Watts Power 888 Watts PS1 AC lost 
+2025-04-21 20:37:25 - CPU_Util 4.4 1.7 0.0
+2025-04-21 20:37:25 - CPU 604 Watts MEM 18 Watts FAN 50 Watts Power 888 Watts PS1 AC lost 
+CPU_Avg_Utilization_Stats: Column 1 average: 4.46666666666666666666
+CPU_Avg_Utilization_Stats: Column 2 average: 2.96666666666666666666
+CPU_Avg_Utilization_Stats: Column 3 average: 0
+CPU_Max_Power_Line_Stats: Column 1 max: 640
+CPU_Max_Power_Line_Stats: Column 2 max: 29
+CPU_Max_Power_Line_Stats: Column 3 max: 50
+CPU_Max_Power_Line_Stats: Column 4 max: 960
+CPU_Avg_Power_Stats: Column 1 average: 616.00000000000000000000
+CPU_Avg_Power_Stats: Column 2 average: 23.13333333333333333333
+CPU_Avg_Power_Stats: Column 3 average: 51.46666666666666666666
+CPU_Avg_Power_Stats: Column 4 average: 905.60000000000000000000

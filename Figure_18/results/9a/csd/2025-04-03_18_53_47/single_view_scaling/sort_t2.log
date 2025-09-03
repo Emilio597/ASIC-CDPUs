@@ -1,0 +1,163 @@
+WARNING: SAM header designates more than one PG tree root by PP tags.
+WARNING: PG line with id bwa_aln_fastq-52389613 has multiple children referencing it by PP tags.
+[V] Reading alignments from source.
+[V] 1M
+[V] 2M
+[V] 3M
+[V] 4M
+[V] 5M
+[V] 6M
+[V] 7M
+[V] 8M
+[V] 9M
+[V] 10M
+[V] 11M
+[V] 12M
+[V] 13M
+[V] 14M
+[V] 15M
+[V] 16M
+[V] 17M
+[V] 18M
+[V] 19M
+[V] 20M
+[V] 21M
+[V] 22M
+[V] 23M
+[V] 24M
+[V] 25M
+[V] 26M
+[V] 27M
+[V] 28M
+[V] 29M
+[V] 30M
+[V] 31M
+[V] 32M
+[V] 33M
+[V] 34M
+[V] 35M
+[V] 36M
+[V] 37M
+[V] 38M
+[V] 39M
+[V] 40M
+[V] 41M
+[V] 42M
+[V] 43M
+[V] 44M
+[V] 45M
+[V] 46M
+[V] 47M
+[V] 48M
+[V] 49M
+[V] 50M
+[V] 51M
+[V] 52M
+[V] 53M
+[V] 54M
+[V] 55M
+[V] 56M
+[V] 57M
+[V] 58M
+[V] 59M
+[V] 60M
+[V] 61M
+[V] 62M
+[V] 63M
+[V] 64M
+[V] 65M
+[V] 66M
+[V] 67M
+[V] read 71223635 alignments
+[V] producing sorted output
+[V] 1M
+[V] 2M
+[V] 3M
+[V] 4M
+[V] 5M
+[V] 6M
+[V] 7M
+[V] 8M
+[V] 9M
+[V] 10M
+[V] 11M
+[V] 12M
+[V] 13M
+[V] 14M
+[V] 15M
+[V] 16M
+[V] 17M
+[V] 18M
+[V] 19M
+[V] 20M
+[V] 21M
+[V] 22M
+[V] 23M
+[V] 24M
+[V] 25M
+[V] 26M
+[V] 27M
+[V] 28M
+[V] 29M
+[V] 30M
+[V] 31M
+[V] 32M
+[V] 33M
+[V] 34M
+[V] 35M
+[V] 36M
+[V] 37M
+[V] 38M
+[V] 39M
+[V] 40M
+[V] 41M
+[V] 42M
+[V] 43M
+[V] 44M
+[V] 45M
+[V] 46M
+[V] 47M
+[V] 48M
+[V] 49M
+[V] 50M
+[V] 51M
+[V] 52M
+[V] 53M
+[V] 54M
+[V] 55M
+[V] 56M
+[V] 57M
+[V] 58M
+[V] 59M
+[V] 60M
+[V] 61M
+[V] 62M
+[V] 63M
+[V] 64M
+[V] 65M
+[V] 66M
+[V] 67M
+[V] wrote 71223635 alignments
+	Command being timed: "bash -c bamsort level=0 sortthreads=2 < /home/user/Programs/qzfs_test-xp/data/merged_input.bam > sorted_t2.bam"
+	User time (seconds): 224.33
+	System time (seconds): 26.76
+	Percent of CPU this job got: 104%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:59.51
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1072344
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 274858
+	Voluntary context switches: 115
+	Involuntary context switches: 488
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 100914320
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

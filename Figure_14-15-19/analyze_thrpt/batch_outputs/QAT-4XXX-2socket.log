@@ -1,0 +1,339 @@
+✓ 收到  workloadf  [process_num_10] 2025-04-18_23-39-03---workloadf  262,735.48 ops/s  AvgPwr: 875.25 W, StartPwr: 792 W, Δ: 83.25 W
+✓ 收到  workloadf  [process_num_10] 2025-04-19_09-26-48---workloadf  264,611.28 ops/s  AvgPwr: 864.80 W, StartPwr: 792 W, Δ: 72.80 W
+✓ 收到  workloadf  [process_num_10] 2025-04-19_12-42-57---workloadf  263,577.91 ops/s  AvgPwr: 869.25 W, StartPwr: 780 W, Δ: 89.25 W
+✓ 收到  workloadf  [process_num_10] 2025-04-19_02-54-57---workloadf  261,386.23 ops/s  AvgPwr: 862.50 W, StartPwr: 792 W, Δ: 70.50 W
+✓ 收到  workloadf  [process_num_10] 2025-04-18_20-23-03---workloadf  267,232.93 ops/s  AvgPwr: 872.25 W, StartPwr: 780 W, Δ: 92.25 W
+✓ 收到  workloada  [process_num_10] 2025-04-19_12-40-30---workloada  279,589.70 ops/s  AvgPwr: 872.80 W, StartPwr: 792 W, Δ: 80.80 W
+✓ 收到  workloada  [process_num_10] 2025-04-18_23-36-36---workloada  285,640.63 ops/s  AvgPwr: 868.80 W, StartPwr: 792 W, Δ: 76.80 W
+✓ 收到  workloada  [process_num_10] 2025-04-19_09-24-22---workloada  283,897.24 ops/s  AvgPwr: 871.71 W, StartPwr: 792 W, Δ: 79.71 W
+✓ 收到  workloada  [process_num_10] 2025-04-18_20-20-36---workloada  282,172.87 ops/s  AvgPwr: 872.00 W, StartPwr: 792 W, Δ: 80.00 W
+✓ 收到  workloadf  [process_num_10] 2025-04-19_06-10-50---workloadf  262,572.85 ops/s  AvgPwr: 885.00 W, StartPwr: 792 W, Δ: 93.00 W
+✓ 收到  workloada  [process_num_10] 2025-04-19_06-08-23---workloada  276,489.07 ops/s  AvgPwr: 873.60 W, StartPwr: 792 W, Δ: 81.60 W
+✓ 收到  workloada  [process_num_10] 2025-04-19_02-52-31---workloada  277,404.53 ops/s  AvgPwr: 876.00 W, StartPwr: 792 W, Δ: 84.00 W
+✓ 收到  workloadf  [process_num_60] 2025-04-22_17-16-37---workloadf  740,215.81 ops/s  AvgPwr: 997.71 W, StartPwr: 804 W, Δ: 193.71 W
+✓ 收到  workloadf  [process_num_60] 2025-04-18_20-53-23---workloadf  761,256.00 ops/s  AvgPwr: 1032.00 W, StartPwr: 792 W, Δ: 240.00 W
+✓ 收到  workloada  [process_num_60] 2025-04-19_03-21-33---workloada  775,423.46 ops/s  AvgPwr: 1008.77 W, StartPwr: 780 W, Δ: 228.77 W
+✓ 收到  workloada  [process_num_60] 2025-04-19_06-37-27---workloada  755,024.83 ops/s  AvgPwr: 1016.12 W, StartPwr: 780 W, Δ: 236.12 W
+✓ 收到  workloada  [process_num_60] 2025-04-22_18-59-53---workloada  755,528.74 ops/s  AvgPwr: 1044.00 W, StartPwr: 840 W, Δ: 204.00 W
+✓ 收到  workloada  [process_num_60] 2025-04-19_09-53-25---workloada  760,635.66 ops/s  AvgPwr: 1018.24 W, StartPwr: 816 W, Δ: 202.24 W
+✓ 收到  workloadf  [process_num_60] 2025-04-19_03-25-17---workloadf  752,361.68 ops/s  AvgPwr: 1014.17 W, StartPwr: 816 W, Δ: 198.17 W
+✓ 收到  workloada  [process_num_60] 2025-04-19_13-09-29---workloada  757,940.50 ops/s  AvgPwr: 1021.16 W, StartPwr: 792 W, Δ: 229.16 W
+✓ 收到  workloadf  [process_num_60] 2025-04-22_19-03-33---workloadf  757,604.66 ops/s  AvgPwr: 1052.73 W, StartPwr: 840 W, Δ: 212.73 W
+✓ 收到  workloadf  [process_num_60] 2025-04-19_09-57-11---workloadf  748,675.85 ops/s  AvgPwr: 1031.29 W, StartPwr: 780 W, Δ: 251.29 W
+✓ 收到  workloadf  [process_num_60] 2025-04-19_00-09-26---workloadf  737,601.44 ops/s  AvgPwr: 1016.82 W, StartPwr: 792 W, Δ: 224.82 W
+✓ 收到  workloada  [process_num_60] 2025-04-22_16-09-32---workloada  717,844.96 ops/s  AvgPwr: 995.64 W, StartPwr: 804 W, Δ: 191.64 W
+✓ 收到  workloada  [process_num_60] 2025-04-18_20-49-39---workloada  772,451.97 ops/s  AvgPwr: 1018.18 W, StartPwr: 792 W, Δ: 226.18 W
+✓ 收到  workloada  [process_num_60] 2025-04-22_17-12-40---workloada  750,372.40 ops/s  AvgPwr: 995.00 W, StartPwr: 804 W, Δ: 191.00 W
+✓ 收到  workloadf  [process_num_60] 2025-04-19_06-41-13---workloadf  748,958.63 ops/s  AvgPwr: 1013.03 W, StartPwr: 780 W, Δ: 233.03 W
+✓ 收到  workloada  [process_num_60] 2025-04-19_00-05-39---workloada  748,754.42 ops/s  AvgPwr: 1022.12 W, StartPwr: 780 W, Δ: 242.12 W
+✓ 收到  workloadf  [process_num_60] 2025-04-19_13-13-12---workloadf  752,547.16 ops/s  AvgPwr: 1021.16 W, StartPwr: 780 W, Δ: 241.16 W
+✓ 收到  workloadf  [process_num_50] 2025-04-22_17-24-18---workloadf  655,962.32 ops/s  AvgPwr: 997.20 W, StartPwr: 804 W, Δ: 193.20 W
+✓ 收到  workloada  [process_num_50] 2025-04-19_06-30-37---workloada  751,669.23 ops/s  AvgPwr: 1015.86 W, StartPwr: 780 W, Δ: 235.86 W
+✓ 收到  workloada  [process_num_50] 2025-04-22_17-20-40---workloada  687,378.93 ops/s  AvgPwr: 981.00 W, StartPwr: 804 W, Δ: 177.00 W
+✓ 收到  workloadf  [process_num_50] 2025-04-19_00-02-13---workloadf  746,204.28 ops/s  AvgPwr: 1007.20 W, StartPwr: 780 W, Δ: 227.20 W
+✓ 收到  workloadf  [process_num_50] 2025-04-18_20-46-12---workloadf  740,153.75 ops/s  AvgPwr: 1012.97 W, StartPwr: 816 W, Δ: 196.97 W
+✓ 收到  workloada  [process_num_50] 2025-04-22_18-53-12---workloada  758,859.45 ops/s  AvgPwr: 1044.00 W, StartPwr: 828 W, Δ: 216.00 W
+✓ 收到  workloada  [process_num_50] 2025-04-18_20-42-48---workloada  752,915.99 ops/s  AvgPwr: 1017.93 W, StartPwr: 780 W, Δ: 237.93 W
+✓ 收到  workloadf  [process_num_50] 2025-04-22_16-05-40---workloadf  642,260.16 ops/s  AvgPwr: 979.89 W, StartPwr: 804 W, Δ: 175.89 W
+✓ 收到  workloadf  [process_num_50] 2025-04-22_18-56-31---workloadf  741,159.04 ops/s  AvgPwr: 1049.79 W, StartPwr: 840 W, Δ: 209.79 W
+✓ 收到  workloada  [process_num_50] 2025-04-19_13-02-40---workloada  757,440.37 ops/s  AvgPwr: 1009.33 W, StartPwr: 780 W, Δ: 229.33 W
+✓ 收到  workloada  [process_num_50] 2025-04-19_09-46-36---workloada  752,824.06 ops/s  AvgPwr: 1015.29 W, StartPwr: 780 W, Δ: 235.29 W
+✓ 收到  workloada  [process_num_50] 2025-04-19_03-14-43---workloada  748,925.63 ops/s  AvgPwr: 1001.54 W, StartPwr: 804 W, Δ: 197.54 W
+✓ 收到  workloadf  [process_num_50] 2025-04-19_13-06-03---workloadf  751,906.25 ops/s  AvgPwr: 1019.11 W, StartPwr: 780 W, Δ: 239.11 W
+✓ 收到  workloada  [process_num_50] 2025-04-22_16-01-49---workloada  657,049.54 ops/s  AvgPwr: 972.86 W, StartPwr: 804 W, Δ: 168.86 W
+✓ 收到  workloadf  [process_num_50] 2025-04-19_03-18-07---workloadf  754,281.23 ops/s  AvgPwr: 1007.60 W, StartPwr: 780 W, Δ: 227.60 W
+✓ 收到  workloadf  [process_num_50] 2025-04-19_09-49-59---workloadf  730,970.64 ops/s  AvgPwr: 1022.80 W, StartPwr: 780 W, Δ: 242.80 W
+✓ 收到  workloada  [process_num_50] 2025-04-18_23-58-50---workloada  752,887.05 ops/s  AvgPwr: 1013.54 W, StartPwr: 792 W, Δ: 221.54 W
+✓ 收到  workloadf  [process_num_50] 2025-04-19_06-34-01---workloadf  730,808.73 ops/s  AvgPwr: 1007.57 W, StartPwr: 780 W, Δ: 227.57 W
+✓ 收到  workloada  [process_num_40] 2025-04-19_12-56-28---workloada  704,413.57 ops/s  AvgPwr: 1002.86 W, StartPwr: 780 W, Δ: 222.86 W
+✓ 收到  workloadf  [process_num_40] 2025-04-19_12-59-32---workloadf  681,005.79 ops/s  AvgPwr: 1004.64 W, StartPwr: 780 W, Δ: 224.64 W
+✓ 收到  workloada  [process_num_40] 2025-04-19_09-40-22---workloada  715,072.70 ops/s  AvgPwr: 996.00 W, StartPwr: 780 W, Δ: 216.00 W
+✓ 收到  workloada  [process_num_40] 2025-04-22_17-27-59---workloada  607,936.48 ops/s  AvgPwr: 958.50 W, StartPwr: 804 W, Δ: 154.50 W
+✓ 收到  workloada  [process_num_40] 2025-04-19_03-08-28---workloada  716,184.78 ops/s  AvgPwr: 1010.18 W, StartPwr: 780 W, Δ: 230.18 W
+✓ 收到  workloada  [process_num_40] 2025-04-18_23-52-34---workloada  701,697.38 ops/s  AvgPwr: 1003.50 W, StartPwr: 780 W, Δ: 223.50 W
+✓ 收到  workloadf  [process_num_40] 2025-04-22_18-50-05---workloadf  682,626.93 ops/s  AvgPwr: 1016.64 W, StartPwr: 828 W, Δ: 188.64 W
+✓ 收到  workloadf  [process_num_40] 2025-04-19_09-43-28---workloadf  686,217.58 ops/s  AvgPwr: 1002.50 W, StartPwr: 780 W, Δ: 222.50 W
+✓ 收到  workloada  [process_num_40] 2025-04-22_18-46-59---workloada  706,686.96 ops/s  AvgPwr: 1021.64 W, StartPwr: 828 W, Δ: 193.64 W
+✓ 收到  workloadf  [process_num_40] 2025-04-18_20-39-40---workloadf  671,427.28 ops/s  AvgPwr: 1010.31 W, StartPwr: 792 W, Δ: 218.31 W
+✓ 收到  workloadf  [process_num_40] 2025-04-22_17-31-23---workloadf  589,299.94 ops/s  AvgPwr: 962.48 W, StartPwr: 816 W, Δ: 146.48 W
+✓ 收到  workloada  [process_num_40] 2025-04-22_18-07-07---workloada  621,567.50 ops/s  AvgPwr: 963.11 W, StartPwr: 816 W, Δ: 147.11 W
+✓ 收到  workloadf  [process_num_40] 2025-04-22_18-10-29---workloadf  598,252.11 ops/s  AvgPwr: 968.50 W, StartPwr: 816 W, Δ: 152.50 W
+✓ 收到  workloada  [process_num_40] 2025-04-19_06-24-22---workloada  697,542.56 ops/s  AvgPwr: 999.13 W, StartPwr: 780 W, Δ: 219.13 W
+✓ 收到  workloadf  [process_num_40] 2025-04-19_06-27-30---workloadf  688,223.15 ops/s  AvgPwr: 1001.76 W, StartPwr: 792 W, Δ: 209.76 W
+✓ 收到  workloada  [process_num_40] 2025-04-18_20-36-33---workloada  709,656.87 ops/s  AvgPwr: 997.04 W, StartPwr: 792 W, Δ: 205.04 W
+✓ 收到  workloadf  [process_num_40] 2025-04-19_03-11-36---workloadf  688,589.13 ops/s  AvgPwr: 996.52 W, StartPwr: 780 W, Δ: 216.52 W
+✓ 收到  workloadf  [process_num_40] 2025-04-18_23-55-41---workloadf  692,662.59 ops/s  AvgPwr: 991.38 W, StartPwr: 792 W, Δ: 199.38 W
+✓ 收到  workloada  [process_num_64] 2025-04-22_14-51-42---workloada  751,084.30 ops/s  AvgPwr: 988.86 W, StartPwr: 804 W, Δ: 184.86 W
+✓ 收到  workloadf  [process_num_64] 2025-04-22_19-11-01---workloadf  759,951.60 ops/s  AvgPwr: 1045.67 W, StartPwr: 840 W, Δ: 205.67 W
+✓ 收到  workloadf  [process_num_64] 2025-04-22_15-45-42---workloadf  726,650.57 ops/s  AvgPwr: 986.10 W, StartPwr: 804 W, Δ: 182.10 W
+✓ 收到  workloadf  [process_num_64] 2025-04-22_19-43-00---workloadf  755,406.61 ops/s  AvgPwr: 1055.67 W, StartPwr: 804 W, Δ: 251.67 W
+✓ 收到  workloada  [process_num_64] 2025-04-22_17-40-14---workloada  778,180.23 ops/s  AvgPwr: 993.93 W, StartPwr: 816 W, Δ: 177.93 W
+✓ 收到  workloadf  [process_num_64] 2025-04-22_17-08-35---workloadf  746,304.49 ops/s  AvgPwr: 1007.37 W, StartPwr: 804 W, Δ: 203.37 W
+✓ 收到  workloadf  [process_num_64] 2025-04-22_20-07-16---workloadf  759,799.71 ops/s  AvgPwr: 1040.00 W, StartPwr: 804 W, Δ: 236.00 W
+✓ 收到  workloada  [process_num_64] 2025-04-22_17-48-21---workloada  770,187.76 ops/s  AvgPwr: 1001.67 W, StartPwr: 816 W, Δ: 185.67 W
+✓ 收到  workloada  [process_num_64] 2025-04-22_16-29-31---workloada  750,711.86 ops/s  AvgPwr: 982.42 W, StartPwr: 804 W, Δ: 178.42 W
+✓ 收到  workloadf  [process_num_64] 2025-04-22_20-14-53---workloadf  760,573.45 ops/s  AvgPwr: 1045.03 W, StartPwr: 816 W, Δ: 229.03 W
+✓ 收到  workloada  [process_num_64] 2025-04-22_15-41-26---workloada  753,689.93 ops/s  AvgPwr: 1003.33 W, StartPwr: 804 W, Δ: 199.33 W
+✓ 收到  workloadf  [process_num_64] 2025-04-22_17-44-16---workloadf  769,454.98 ops/s  AvgPwr: 995.37 W, StartPwr: 816 W, Δ: 179.37 W
+✓ 收到  workloada  [process_num_64] 2025-04-22_19-07-12---workloada  798,860.88 ops/s  AvgPwr: 1036.67 W, StartPwr: 840 W, Δ: 196.67 W
+✓ 收到  workloada  [process_num_64] 2025-04-22_19-46-48---workloada  774,510.07 ops/s  AvgPwr: 1042.63 W, StartPwr: 804 W, Δ: 238.63 W
+✓ 收到  workloadf  [process_num_64] 2025-04-22_17-52-23---workloadf  766,801.00 ops/s  AvgPwr: 1001.82 W, StartPwr: 816 W, Δ: 185.82 W
+✓ 收到  workloadf  [process_num_64] 2025-04-22_16-42-30---workloadf  727,384.23 ops/s  AvgPwr: 994.38 W, StartPwr: 816 W, Δ: 178.38 W
+✓ 收到  workloada  [process_num_64] 2025-04-22_20-11-06---workloada  767,313.97 ops/s  AvgPwr: 1038.75 W, StartPwr: 816 W, Δ: 222.75 W
+✓ 收到  workloada  [process_num_64] 2025-04-22_16-38-15---workloada  744,303.83 ops/s  AvgPwr: 984.80 W, StartPwr: 816 W, Δ: 168.80 W
+✓ 收到  workloada  [process_num_64] 2025-04-22_17-04-31---workloada  766,404.52 ops/s  AvgPwr: 989.33 W, StartPwr: 792 W, Δ: 197.33 W
+✓ 收到  workloada  [process_num_64] 2025-04-22_19-39-11---workloada  757,689.78 ops/s  AvgPwr: 1049.67 W, StartPwr: 804 W, Δ: 245.67 W
+✓ 收到  workloada  [process_num_64] 2025-04-22_20-03-28---workloada  763,853.99 ops/s  AvgPwr: 1050.55 W, StartPwr: 804 W, Δ: 246.55 W
+✓ 收到  workloadf  [process_num_64] 2025-04-22_16-34-02---workloadf  726,535.95 ops/s  AvgPwr: 994.50 W, StartPwr: 816 W, Δ: 178.50 W
+✓ 收到  workloada  [process_num_64] 2025-04-22_15-00-14---workloada  750,831.58 ops/s  AvgPwr: 990.00 W, StartPwr: 804 W, Δ: 186.00 W
+✓ 收到  workloada  [process_num_64] 2025-04-22_14-43-05---workloada  740,872.79 ops/s  AvgPwr: 982.18 W, StartPwr: 804 W, Δ: 178.18 W
+✓ 收到  workloadf  [process_num_64] 2025-04-22_14-47-26---workloadf  728,040.75 ops/s  AvgPwr: 995.27 W, StartPwr: 804 W, Δ: 191.27 W
+⚠️ Empty  workloada  [process_num_64] 2025-04-22_16-24-58---workloada
+✓ 收到  workloadf  [process_num_64] 2025-04-22_14-55-58---workloadf  727,467.49 ops/s  AvgPwr: 996.00 W, StartPwr: 804 W, Δ: 192.00 W
+✓ 收到  workloadf  [process_num_64] 2025-04-22_19-50-37---workloadf  752,897.96 ops/s  AvgPwr: 1062.17 W, StartPwr: 816 W, Δ: 246.17 W
+✓ 收到  workloadf  [process_num_70] 2025-04-19_03-33-03---workloadf  813,816.88 ops/s  AvgPwr: 1013.67 W, StartPwr: 780 W, Δ: 233.67 W
+✓ 收到  workloadf  [process_num_70] 2025-04-19_13-20-59---workloadf  822,996.88 ops/s  AvgPwr: 1026.80 W, StartPwr: 780 W, Δ: 246.80 W
+✓ 收到  workloada  [process_num_70] 2025-04-19_03-29-02---workloada  838,389.37 ops/s  AvgPwr: 1021.00 W, StartPwr: 780 W, Δ: 241.00 W
+✓ 收到  workloadf  [process_num_70] 2025-04-18_21-01-09---workloadf  818,383.28 ops/s  AvgPwr: 1030.55 W, StartPwr: 780 W, Δ: 250.55 W
+✓ 收到  workloada  [process_num_70] 2025-04-19_06-44-59---workloada  826,577.76 ops/s  AvgPwr: 1021.33 W, StartPwr: 780 W, Δ: 241.33 W
+✓ 收到  workloadf  [process_num_70] 2025-04-19_06-48-58---workloadf  820,124.61 ops/s  AvgPwr: 1027.35 W, StartPwr: 780 W, Δ: 247.35 W
+✓ 收到  workloada  [process_num_70] 2025-04-18_20-57-07---workloada  842,975.23 ops/s  AvgPwr: 1018.18 W, StartPwr: 804 W, Δ: 214.18 W
+✓ 收到  workloada  [process_num_70] 2025-04-19_10-00-56---workloada  824,818.86 ops/s  AvgPwr: 1009.30 W, StartPwr: 92 W, Δ: 917.30 W
+✓ 收到  workloada  [process_num_70] 2025-04-19_13-16-57---workloada  832,940.25 ops/s  AvgPwr: 1019.33 W, StartPwr: 780 W, Δ: 239.33 W
+✓ 收到  workloadf  [process_num_70] 2025-04-19_00-17-14---workloadf  822,064.77 ops/s  AvgPwr: 1019.68 W, StartPwr: 780 W, Δ: 239.68 W
+✓ 收到  workloadf  [process_num_70] 2025-04-19_10-04-59---workloadf  820,487.31 ops/s  AvgPwr: 1008.00 W, StartPwr: 792 W, Δ: 216.00 W
+✓ 收到  workloada  [process_num_70] 2025-04-19_00-13-13---workloada  840,879.40 ops/s  AvgPwr: 1022.33 W, StartPwr: 780 W, Δ: 242.33 W
+✓ 收到  workloadf  [process_num_80] 2025-04-19_06-57-42---workloadf  854,611.62 ops/s  AvgPwr: 1022.21 W, StartPwr: 780 W, Δ: 242.21 W
+✓ 收到  workloada  [process_num_80] 2025-04-19_00-21-18---workloada  875,364.69 ops/s  AvgPwr: 1011.43 W, StartPwr: 780 W, Δ: 231.43 W
+✓ 收到  workloadf  [process_num_80] 2025-04-19_13-29-44---workloadf  859,879.10 ops/s  AvgPwr: 996.24 W, StartPwr: 780 W, Δ: 216.24 W
+✓ 收到  workloada  [process_num_80] 2025-04-19_10-09-02---workloada  879,348.92 ops/s  AvgPwr: 995.48 W, StartPwr: 780 W, Δ: 215.48 W
+✓ 收到  workloada  [process_num_80] 2025-04-19_06-53-01---workloada  877,027.99 ops/s  AvgPwr: 1013.29 W, StartPwr: 792 W, Δ: 221.29 W
+✓ 收到  workloada  [process_num_80] 2025-04-19_13-25-02---workloada  880,547.44 ops/s  AvgPwr: 987.83 W, StartPwr: 780 W, Δ: 207.83 W
+✓ 收到  workloadf  [process_num_80] 2025-04-18_21-09-54---workloadf  866,407.19 ops/s  AvgPwr: 1022.27 W, StartPwr: 780 W, Δ: 242.27 W
+✓ 收到  workloadf  [process_num_80] 2025-04-19_10-13-42---workloadf  857,828.49 ops/s  AvgPwr: 1006.91 W, StartPwr: 780 W, Δ: 226.91 W
+✓ 收到  workloada  [process_num_80] 2025-04-19_03-37-07---workloada  867,445.60 ops/s  AvgPwr: 1035.27 W, StartPwr: 780 W, Δ: 255.27 W
+✓ 收到  workloadf  [process_num_80] 2025-04-19_03-41-44---workloadf  853,607.02 ops/s  AvgPwr: 996.98 W, StartPwr: 780 W, Δ: 216.98 W
+✓ 收到  workloadf  [process_num_80] 2025-04-19_00-25-58---workloadf  853,604.77 ops/s  AvgPwr: 1025.68 W, StartPwr: 780 W, Δ: 245.68 W
+✓ 收到  workloada  [process_num_80] 2025-04-18_21-05-12---workloada  873,860.71 ops/s  AvgPwr: 1028.62 W, StartPwr: 792 W, Δ: 236.62 W
+✓ 收到  workloadf  [process_num_30] 2025-04-19_09-37-29---workloadf  602,268.69 ops/s  AvgPwr: 979.20 W, StartPwr: 792 W, Δ: 187.20 W
+✓ 收到  workloadf  [process_num_30] 2025-04-18_23-49-42---workloadf  601,800.38 ops/s  AvgPwr: 981.71 W, StartPwr: 780 W, Δ: 201.71 W
+✓ 收到  workloadf  [process_num_30] 2025-04-19_12-53-37---workloadf  609,016.72 ops/s  AvgPwr: 969.27 W, StartPwr: 792 W, Δ: 177.27 W
+✓ 收到  workloada  [process_num_30] 2025-04-18_20-30-53---workloada  626,961.40 ops/s  AvgPwr: 974.86 W, StartPwr: 792 W, Δ: 182.86 W
+✓ 收到  workloadf  [process_num_30] 2025-04-22_18-41-34---workloadf  605,074.10 ops/s  AvgPwr: 993.71 W, StartPwr: 828 W, Δ: 165.71 W
+✓ 收到  workloadf  [process_num_30] 2025-04-19_03-05-35---workloadf  593,201.24 ops/s  AvgPwr: 972.00 W, StartPwr: 792 W, Δ: 180.00 W
+✓ 收到  workloada  [process_num_30] 2025-04-19_12-50-47---workloada  619,536.56 ops/s  AvgPwr: 978.86 W, StartPwr: 792 W, Δ: 186.86 W
+✓ 收到  workloada  [process_num_30] 2025-04-19_03-02-46---workloada  621,686.48 ops/s  AvgPwr: 965.40 W, StartPwr: 780 W, Δ: 185.40 W
+✓ 收到  workloada  [process_num_30] 2025-04-18_23-46-52---workloada  620,808.46 ops/s  AvgPwr: 972.60 W, StartPwr: 780 W, Δ: 192.60 W
+✓ 收到  workloadf  [process_num_30] 2025-04-19_06-21-31---workloadf  602,209.16 ops/s  AvgPwr: 966.86 W, StartPwr: 780 W, Δ: 186.86 W
+✓ 收到  workloadf  [process_num_30] 2025-04-18_20-33-41---workloadf  603,122.78 ops/s  AvgPwr: 993.71 W, StartPwr: 792 W, Δ: 201.71 W
+✓ 收到  workloada  [process_num_30] 2025-04-22_18-38-42---workloada  623,521.65 ops/s  AvgPwr: 993.14 W, StartPwr: 828 W, Δ: 165.14 W
+✓ 收到  workloada  [process_num_30] 2025-04-19_09-34-39---workloada  626,319.75 ops/s  AvgPwr: 970.74 W, StartPwr: 792 W, Δ: 178.74 W
+✓ 收到  workloadf  [process_num_30] 2025-04-22_18-03-58---workloadf  481,997.33 ops/s  AvgPwr: 944.14 W, StartPwr: 828 W, Δ: 116.14 W
+✓ 收到  workloada  [process_num_30] 2025-04-22_18-00-50---workloada  494,722.37 ops/s  AvgPwr: 940.00 W, StartPwr: 828 W, Δ: 112.00 W
+✓ 收到  workloada  [process_num_30] 2025-04-19_06-18-40---workloada  629,044.35 ops/s  AvgPwr: 970.80 W, StartPwr: 792 W, Δ: 178.80 W
+✓ 收到  workloada  [process_num_20] 2025-04-18_23-41-32---workloada  477,474.55 ops/s  AvgPwr: 940.50 W, StartPwr: 780 W, Δ: 160.50 W
+✓ 收到  workloada  [process_num_20] 2025-04-22_18-31-14---workloada  480,787.21 ops/s  AvgPwr: 958.67 W, StartPwr: 828 W, Δ: 130.67 W
+✓ 收到  workloadf  [process_num_20] 2025-04-19_06-15-59---workloadf  465,561.84 ops/s  AvgPwr: 920.84 W, StartPwr: 780 W, Δ: 140.84 W
+✓ 收到  workloada  [process_num_20] 2025-04-19_12-45-26---workloada  482,359.80 ops/s  AvgPwr: 924.71 W, StartPwr: 780 W, Δ: 144.71 W
+✓ 收到  workloadf  [process_num_20] 2025-04-19_09-31-58---workloadf  456,731.37 ops/s  AvgPwr: 934.59 W, StartPwr: 780 W, Δ: 154.59 W
+✓ 收到  workloada  [process_num_20] 2025-04-18_20-25-33---workloada  486,327.90 ops/s  AvgPwr: 936.00 W, StartPwr: 792 W, Δ: 144.00 W
+✓ 收到  workloada  [process_num_20] 2025-04-19_06-13-20---workloada  477,954.83 ops/s  AvgPwr: 922.00 W, StartPwr: 780 W, Δ: 142.00 W
+✓ 收到  workloadf  [process_num_20] 2025-04-18_20-28-12---workloadf  461,253.53 ops/s  AvgPwr: 938.67 W, StartPwr: 792 W, Δ: 146.67 W
+✓ 收到  workloadf  [process_num_20] 2025-04-19_12-48-05---workloadf  453,913.22 ops/s  AvgPwr: 933.47 W, StartPwr: 780 W, Δ: 153.47 W
+✓ 收到  workloadf  [process_num_20] 2025-04-19_03-00-04---workloadf  455,308.95 ops/s  AvgPwr: 936.67 W, StartPwr: 780 W, Δ: 156.67 W
+✓ 收到  workloadf  [process_num_20] 2025-04-22_18-33-54---workloadf  458,837.15 ops/s  AvgPwr: 990.35 W, StartPwr: 816 W, Δ: 174.35 W
+✓ 收到  workloadf  [process_num_20] 2025-04-18_23-44-10---workloadf  455,571.71 ops/s  AvgPwr: 945.88 W, StartPwr: 780 W, Δ: 165.88 W
+✓ 收到  workloada  [process_num_20] 2025-04-19_02-57-26---workloada  481,496.23 ops/s  AvgPwr: 940.24 W, StartPwr: 780 W, Δ: 160.24 W
+✓ 收到  workloada  [process_num_20] 2025-04-19_09-29-17---workloada  485,098.96 ops/s  AvgPwr: 935.37 W, StartPwr: 792 W, Δ: 143.37 W
+✓ 收到  workloada  [process_num_88] 2025-04-19_07-02-22---workloada  912,861.38 ops/s  AvgPwr: 1007.68 W, StartPwr: 780 W, Δ: 227.68 W
+✓ 收到  workloadf  [process_num_88] 2025-04-19_13-39-36---workloadf  917,937.89 ops/s  AvgPwr: 1014.17 W, StartPwr: 780 W, Δ: 234.17 W
+✓ 收到  workloada  [process_num_88] 2025-04-18_21-14-41---workloada  932,361.09 ops/s  AvgPwr: 1022.00 W, StartPwr: 780 W, Δ: 242.00 W
+✓ 收到  workloada  [process_num_88] 2025-04-19_13-34-32---workloada  920,944.39 ops/s  AvgPwr: 1022.82 W, StartPwr: 780 W, Δ: 242.82 W
+✓ 收到  workloadf  [process_num_88] 2025-04-19_07-07-25---workloadf  919,703.38 ops/s  AvgPwr: 1008.32 W, StartPwr: 780 W, Δ: 228.32 W
+✓ 收到  workloadf  [process_num_88] 2025-04-19_03-51-33---workloadf  914,653.93 ops/s  AvgPwr: 995.77 W, StartPwr: 780 W, Δ: 215.77 W
+✓ 收到  workloada  [process_num_88] 2025-04-19_10-18-24---workloada  921,064.85 ops/s  AvgPwr: 1021.03 W, StartPwr: 780 W, Δ: 241.03 W
+✓ 收到  workloadf  [process_num_88] 2025-04-19_00-35-41---workloadf  922,084.81 ops/s  AvgPwr: 1027.14 W, StartPwr: 780 W, Δ: 247.14 W
+✓ 收到  workloada  [process_num_88] 2025-04-19_00-30-41---workloada  919,478.62 ops/s  AvgPwr: 1042.05 W, StartPwr: 780 W, Δ: 262.05 W
+✓ 收到  workloada  [process_num_88] 2025-04-19_03-46-30---workloada  922,498.68 ops/s  AvgPwr: 995.56 W, StartPwr: 672 W, Δ: 323.56 W
+✓ 收到  workloadf  [process_num_88] 2025-04-18_21-19-45---workloadf  893,738.50 ops/s  AvgPwr: 1032.34 W, StartPwr: 780 W, Δ: 252.34 W
+✓ 收到  workloadf  [process_num_88] 2025-04-19_10-23-28---workloadf  927,061.22 ops/s  AvgPwr: 1015.89 W, StartPwr: 780 W, Δ: 235.89 W
+
+🔸 workloada
+   [process_num_10] 2025-04-18_20-20-36    282,172.87 ops/sec  AvgPwr: 872.00 W, StartPwr: 792 W, Diff: 80.00 W
+   [process_num_10] 2025-04-18_23-36-36    285,640.63 ops/sec  AvgPwr: 868.80 W, StartPwr: 792 W, Diff: 76.80 W
+   [process_num_10] 2025-04-19_02-52-31    277,404.53 ops/sec  AvgPwr: 876.00 W, StartPwr: 792 W, Diff: 84.00 W
+   [process_num_10] 2025-04-19_06-08-23    276,489.07 ops/sec  AvgPwr: 873.60 W, StartPwr: 792 W, Diff: 81.60 W
+   [process_num_10] 2025-04-19_09-24-22    283,897.24 ops/sec  AvgPwr: 871.71 W, StartPwr: 792 W, Diff: 79.71 W
+   [process_num_10] 2025-04-19_12-40-30    279,589.70 ops/sec  AvgPwr: 872.80 W, StartPwr: 792 W, Diff: 80.80 W
+   ---------------------------------------------------------------------------
+   [process_num_20] 2025-04-18_20-25-33    486,327.90 ops/sec  AvgPwr: 936.00 W, StartPwr: 792 W, Diff: 144.00 W
+   [process_num_20] 2025-04-18_23-41-32    477,474.55 ops/sec  AvgPwr: 940.50 W, StartPwr: 780 W, Diff: 160.50 W
+   [process_num_20] 2025-04-19_02-57-26    481,496.23 ops/sec  AvgPwr: 940.24 W, StartPwr: 780 W, Diff: 160.24 W
+   [process_num_20] 2025-04-19_06-13-20    477,954.83 ops/sec  AvgPwr: 922.00 W, StartPwr: 780 W, Diff: 142.00 W
+   [process_num_20] 2025-04-19_09-29-17    485,098.96 ops/sec  AvgPwr: 935.37 W, StartPwr: 792 W, Diff: 143.37 W
+   [process_num_20] 2025-04-19_12-45-26    482,359.80 ops/sec  AvgPwr: 924.71 W, StartPwr: 780 W, Diff: 144.71 W
+   [process_num_20] 2025-04-22_18-31-14    480,787.21 ops/sec  AvgPwr: 958.67 W, StartPwr: 828 W, Diff: 130.67 W
+   ---------------------------------------------------------------------------
+   [process_num_30] 2025-04-18_20-30-53    626,961.40 ops/sec  AvgPwr: 974.86 W, StartPwr: 792 W, Diff: 182.86 W
+   [process_num_30] 2025-04-18_23-46-52    620,808.46 ops/sec  AvgPwr: 972.60 W, StartPwr: 780 W, Diff: 192.60 W
+   [process_num_30] 2025-04-19_03-02-46    621,686.48 ops/sec  AvgPwr: 965.40 W, StartPwr: 780 W, Diff: 185.40 W
+   [process_num_30] 2025-04-19_06-18-40    629,044.35 ops/sec  AvgPwr: 970.80 W, StartPwr: 792 W, Diff: 178.80 W
+   [process_num_30] 2025-04-19_09-34-39    626,319.75 ops/sec  AvgPwr: 970.74 W, StartPwr: 792 W, Diff: 178.74 W
+   [process_num_30] 2025-04-19_12-50-47    619,536.56 ops/sec  AvgPwr: 978.86 W, StartPwr: 792 W, Diff: 186.86 W
+   [process_num_30] 2025-04-22_18-00-50    494,722.37 ops/sec  AvgPwr: 940.00 W, StartPwr: 828 W, Diff: 112.00 W
+   [process_num_30] 2025-04-22_18-38-42    623,521.65 ops/sec  AvgPwr: 993.14 W, StartPwr: 828 W, Diff: 165.14 W
+   ---------------------------------------------------------------------------
+   [process_num_40] 2025-04-18_20-36-33    709,656.87 ops/sec  AvgPwr: 997.04 W, StartPwr: 792 W, Diff: 205.04 W
+   [process_num_40] 2025-04-18_23-52-34    701,697.38 ops/sec  AvgPwr: 1,003.50 W, StartPwr: 780 W, Diff: 223.50 W
+   [process_num_40] 2025-04-19_03-08-28    716,184.78 ops/sec  AvgPwr: 1,010.18 W, StartPwr: 780 W, Diff: 230.18 W
+   [process_num_40] 2025-04-19_06-24-22    697,542.56 ops/sec  AvgPwr: 999.13 W, StartPwr: 780 W, Diff: 219.13 W
+   [process_num_40] 2025-04-19_09-40-22    715,072.70 ops/sec  AvgPwr: 996.00 W, StartPwr: 780 W, Diff: 216.00 W
+   [process_num_40] 2025-04-19_12-56-28    704,413.57 ops/sec  AvgPwr: 1,002.86 W, StartPwr: 780 W, Diff: 222.86 W
+   [process_num_40] 2025-04-22_17-27-59    607,936.48 ops/sec  AvgPwr: 958.50 W, StartPwr: 804 W, Diff: 154.50 W
+   [process_num_40] 2025-04-22_18-07-07    621,567.50 ops/sec  AvgPwr: 963.11 W, StartPwr: 816 W, Diff: 147.11 W
+   [process_num_40] 2025-04-22_18-46-59    706,686.96 ops/sec  AvgPwr: 1,021.64 W, StartPwr: 828 W, Diff: 193.64 W
+   ---------------------------------------------------------------------------
+   [process_num_50] 2025-04-18_20-42-48    752,915.99 ops/sec  AvgPwr: 1,017.93 W, StartPwr: 780 W, Diff: 237.93 W
+   [process_num_50] 2025-04-18_23-58-50    752,887.05 ops/sec  AvgPwr: 1,013.54 W, StartPwr: 792 W, Diff: 221.54 W
+   [process_num_50] 2025-04-19_03-14-43    748,925.63 ops/sec  AvgPwr: 1,001.54 W, StartPwr: 804 W, Diff: 197.54 W
+   [process_num_50] 2025-04-19_06-30-37    751,669.23 ops/sec  AvgPwr: 1,015.86 W, StartPwr: 780 W, Diff: 235.86 W
+   [process_num_50] 2025-04-19_09-46-36    752,824.06 ops/sec  AvgPwr: 1,015.29 W, StartPwr: 780 W, Diff: 235.29 W
+   [process_num_50] 2025-04-19_13-02-40    757,440.37 ops/sec  AvgPwr: 1,009.33 W, StartPwr: 780 W, Diff: 229.33 W
+   [process_num_50] 2025-04-22_16-01-49    657,049.54 ops/sec  AvgPwr: 972.86 W, StartPwr: 804 W, Diff: 168.86 W
+   [process_num_50] 2025-04-22_17-20-40    687,378.93 ops/sec  AvgPwr: 981.00 W, StartPwr: 804 W, Diff: 177.00 W
+   [process_num_50] 2025-04-22_18-53-12    758,859.45 ops/sec  AvgPwr: 1,044.00 W, StartPwr: 828 W, Diff: 216.00 W
+   ---------------------------------------------------------------------------
+   [process_num_60] 2025-04-18_20-49-39    772,451.97 ops/sec  AvgPwr: 1,018.18 W, StartPwr: 792 W, Diff: 226.18 W
+   [process_num_60] 2025-04-19_00-05-39    748,754.42 ops/sec  AvgPwr: 1,022.12 W, StartPwr: 780 W, Diff: 242.12 W
+   [process_num_60] 2025-04-19_03-21-33    775,423.46 ops/sec  AvgPwr: 1,008.77 W, StartPwr: 780 W, Diff: 228.77 W
+   [process_num_60] 2025-04-19_06-37-27    755,024.83 ops/sec  AvgPwr: 1,016.12 W, StartPwr: 780 W, Diff: 236.12 W
+   [process_num_60] 2025-04-19_09-53-25    760,635.66 ops/sec  AvgPwr: 1,018.24 W, StartPwr: 816 W, Diff: 202.24 W
+   [process_num_60] 2025-04-19_13-09-29    757,940.50 ops/sec  AvgPwr: 1,021.16 W, StartPwr: 792 W, Diff: 229.16 W
+   [process_num_60] 2025-04-22_16-09-32    717,844.96 ops/sec  AvgPwr: 995.64 W, StartPwr: 804 W, Diff: 191.64 W
+   [process_num_60] 2025-04-22_17-12-40    750,372.40 ops/sec  AvgPwr: 995.00 W, StartPwr: 804 W, Diff: 191.00 W
+   [process_num_60] 2025-04-22_18-59-53    755,528.74 ops/sec  AvgPwr: 1,044.00 W, StartPwr: 840 W, Diff: 204.00 W
+   ---------------------------------------------------------------------------
+   [process_num_64] 2025-04-22_14-43-05    740,872.79 ops/sec  AvgPwr: 982.18 W, StartPwr: 804 W, Diff: 178.18 W
+   [process_num_64] 2025-04-22_14-51-42    751,084.30 ops/sec  AvgPwr: 988.86 W, StartPwr: 804 W, Diff: 184.86 W
+   [process_num_64] 2025-04-22_15-00-14    750,831.58 ops/sec  AvgPwr: 990.00 W, StartPwr: 804 W, Diff: 186.00 W
+   [process_num_64] 2025-04-22_15-41-26    753,689.93 ops/sec  AvgPwr: 1,003.33 W, StartPwr: 804 W, Diff: 199.33 W
+   [process_num_64] 2025-04-22_16-29-31    750,711.86 ops/sec  AvgPwr: 982.42 W, StartPwr: 804 W, Diff: 178.42 W
+   [process_num_64] 2025-04-22_16-38-15    744,303.83 ops/sec  AvgPwr: 984.80 W, StartPwr: 816 W, Diff: 168.80 W
+   [process_num_64] 2025-04-22_17-04-31    766,404.52 ops/sec  AvgPwr: 989.33 W, StartPwr: 792 W, Diff: 197.33 W
+   [process_num_64] 2025-04-22_17-40-14    778,180.23 ops/sec  AvgPwr: 993.93 W, StartPwr: 816 W, Diff: 177.93 W
+   [process_num_64] 2025-04-22_17-48-21    770,187.76 ops/sec  AvgPwr: 1,001.67 W, StartPwr: 816 W, Diff: 185.67 W
+   [process_num_64] 2025-04-22_19-07-12    798,860.88 ops/sec  AvgPwr: 1,036.67 W, StartPwr: 840 W, Diff: 196.67 W
+   [process_num_64] 2025-04-22_19-39-11    757,689.78 ops/sec  AvgPwr: 1,049.67 W, StartPwr: 804 W, Diff: 245.67 W
+   [process_num_64] 2025-04-22_19-46-48    774,510.07 ops/sec  AvgPwr: 1,042.63 W, StartPwr: 804 W, Diff: 238.63 W
+   [process_num_64] 2025-04-22_20-03-28    763,853.99 ops/sec  AvgPwr: 1,050.55 W, StartPwr: 804 W, Diff: 246.55 W
+   [process_num_64] 2025-04-22_20-11-06    767,313.97 ops/sec  AvgPwr: 1,038.75 W, StartPwr: 816 W, Diff: 222.75 W
+   ---------------------------------------------------------------------------
+   [process_num_70] 2025-04-18_20-57-07    842,975.23 ops/sec  AvgPwr: 1,018.18 W, StartPwr: 804 W, Diff: 214.18 W
+   [process_num_70] 2025-04-19_00-13-13    840,879.40 ops/sec  AvgPwr: 1,022.33 W, StartPwr: 780 W, Diff: 242.33 W
+   [process_num_70] 2025-04-19_03-29-02    838,389.37 ops/sec  AvgPwr: 1,021.00 W, StartPwr: 780 W, Diff: 241.00 W
+   [process_num_70] 2025-04-19_06-44-59    826,577.76 ops/sec  AvgPwr: 1,021.33 W, StartPwr: 780 W, Diff: 241.33 W
+   [process_num_70] 2025-04-19_10-00-56    824,818.86 ops/sec  AvgPwr: 1,009.30 W, StartPwr:  92 W, Diff: 917.30 W
+   [process_num_70] 2025-04-19_13-16-57    832,940.25 ops/sec  AvgPwr: 1,019.33 W, StartPwr: 780 W, Diff: 239.33 W
+   ---------------------------------------------------------------------------
+   [process_num_80] 2025-04-18_21-05-12    873,860.71 ops/sec  AvgPwr: 1,028.62 W, StartPwr: 792 W, Diff: 236.62 W
+   [process_num_80] 2025-04-19_00-21-18    875,364.69 ops/sec  AvgPwr: 1,011.43 W, StartPwr: 780 W, Diff: 231.43 W
+   [process_num_80] 2025-04-19_03-37-07    867,445.60 ops/sec  AvgPwr: 1,035.27 W, StartPwr: 780 W, Diff: 255.27 W
+   [process_num_80] 2025-04-19_06-53-01    877,027.99 ops/sec  AvgPwr: 1,013.29 W, StartPwr: 792 W, Diff: 221.29 W
+   [process_num_80] 2025-04-19_10-09-02    879,348.92 ops/sec  AvgPwr: 995.48 W, StartPwr: 780 W, Diff: 215.48 W
+   [process_num_80] 2025-04-19_13-25-02    880,547.44 ops/sec  AvgPwr: 987.83 W, StartPwr: 780 W, Diff: 207.83 W
+   ---------------------------------------------------------------------------
+   [process_num_88] 2025-04-18_21-14-41    932,361.09 ops/sec  AvgPwr: 1,022.00 W, StartPwr: 780 W, Diff: 242.00 W
+   [process_num_88] 2025-04-19_00-30-41    919,478.62 ops/sec  AvgPwr: 1,042.05 W, StartPwr: 780 W, Diff: 262.05 W
+   [process_num_88] 2025-04-19_03-46-30    922,498.68 ops/sec  AvgPwr: 995.56 W, StartPwr: 672 W, Diff: 323.56 W
+   [process_num_88] 2025-04-19_07-02-22    912,861.38 ops/sec  AvgPwr: 1,007.68 W, StartPwr: 780 W, Diff: 227.68 W
+   [process_num_88] 2025-04-19_10-18-24    921,064.85 ops/sec  AvgPwr: 1,021.03 W, StartPwr: 780 W, Diff: 241.03 W
+   [process_num_88] 2025-04-19_13-34-32    920,944.39 ops/sec  AvgPwr: 1,022.82 W, StartPwr: 780 W, Diff: 242.82 W
+
+🔸 workloadf
+   [process_num_10] 2025-04-18_20-23-03    267,232.93 ops/sec  AvgPwr: 872.25 W, StartPwr: 780 W, Diff: 92.25 W
+   [process_num_10] 2025-04-18_23-39-03    262,735.48 ops/sec  AvgPwr: 875.25 W, StartPwr: 792 W, Diff: 83.25 W
+   [process_num_10] 2025-04-19_02-54-57    261,386.23 ops/sec  AvgPwr: 862.50 W, StartPwr: 792 W, Diff: 70.50 W
+   [process_num_10] 2025-04-19_06-10-50    262,572.85 ops/sec  AvgPwr: 885.00 W, StartPwr: 792 W, Diff: 93.00 W
+   [process_num_10] 2025-04-19_09-26-48    264,611.28 ops/sec  AvgPwr: 864.80 W, StartPwr: 792 W, Diff: 72.80 W
+   [process_num_10] 2025-04-19_12-42-57    263,577.91 ops/sec  AvgPwr: 869.25 W, StartPwr: 780 W, Diff: 89.25 W
+   ---------------------------------------------------------------------------
+   [process_num_20] 2025-04-18_20-28-12    461,253.53 ops/sec  AvgPwr: 938.67 W, StartPwr: 792 W, Diff: 146.67 W
+   [process_num_20] 2025-04-18_23-44-10    455,571.71 ops/sec  AvgPwr: 945.88 W, StartPwr: 780 W, Diff: 165.88 W
+   [process_num_20] 2025-04-19_03-00-04    455,308.95 ops/sec  AvgPwr: 936.67 W, StartPwr: 780 W, Diff: 156.67 W
+   [process_num_20] 2025-04-19_06-15-59    465,561.84 ops/sec  AvgPwr: 920.84 W, StartPwr: 780 W, Diff: 140.84 W
+   [process_num_20] 2025-04-19_09-31-58    456,731.37 ops/sec  AvgPwr: 934.59 W, StartPwr: 780 W, Diff: 154.59 W
+   [process_num_20] 2025-04-19_12-48-05    453,913.22 ops/sec  AvgPwr: 933.47 W, StartPwr: 780 W, Diff: 153.47 W
+   [process_num_20] 2025-04-22_18-33-54    458,837.15 ops/sec  AvgPwr: 990.35 W, StartPwr: 816 W, Diff: 174.35 W
+   ---------------------------------------------------------------------------
+   [process_num_30] 2025-04-18_20-33-41    603,122.78 ops/sec  AvgPwr: 993.71 W, StartPwr: 792 W, Diff: 201.71 W
+   [process_num_30] 2025-04-18_23-49-42    601,800.38 ops/sec  AvgPwr: 981.71 W, StartPwr: 780 W, Diff: 201.71 W
+   [process_num_30] 2025-04-19_03-05-35    593,201.24 ops/sec  AvgPwr: 972.00 W, StartPwr: 792 W, Diff: 180.00 W
+   [process_num_30] 2025-04-19_06-21-31    602,209.16 ops/sec  AvgPwr: 966.86 W, StartPwr: 780 W, Diff: 186.86 W
+   [process_num_30] 2025-04-19_09-37-29    602,268.69 ops/sec  AvgPwr: 979.20 W, StartPwr: 792 W, Diff: 187.20 W
+   [process_num_30] 2025-04-19_12-53-37    609,016.72 ops/sec  AvgPwr: 969.27 W, StartPwr: 792 W, Diff: 177.27 W
+   [process_num_30] 2025-04-22_18-03-58    481,997.33 ops/sec  AvgPwr: 944.14 W, StartPwr: 828 W, Diff: 116.14 W
+   [process_num_30] 2025-04-22_18-41-34    605,074.10 ops/sec  AvgPwr: 993.71 W, StartPwr: 828 W, Diff: 165.71 W
+   ---------------------------------------------------------------------------
+   [process_num_40] 2025-04-18_20-39-40    671,427.28 ops/sec  AvgPwr: 1,010.31 W, StartPwr: 792 W, Diff: 218.31 W
+   [process_num_40] 2025-04-18_23-55-41    692,662.59 ops/sec  AvgPwr: 991.38 W, StartPwr: 792 W, Diff: 199.38 W
+   [process_num_40] 2025-04-19_03-11-36    688,589.13 ops/sec  AvgPwr: 996.52 W, StartPwr: 780 W, Diff: 216.52 W
+   [process_num_40] 2025-04-19_06-27-30    688,223.15 ops/sec  AvgPwr: 1,001.76 W, StartPwr: 792 W, Diff: 209.76 W
+   [process_num_40] 2025-04-19_09-43-28    686,217.58 ops/sec  AvgPwr: 1,002.50 W, StartPwr: 780 W, Diff: 222.50 W
+   [process_num_40] 2025-04-19_12-59-32    681,005.79 ops/sec  AvgPwr: 1,004.64 W, StartPwr: 780 W, Diff: 224.64 W
+   [process_num_40] 2025-04-22_17-31-23    589,299.94 ops/sec  AvgPwr: 962.48 W, StartPwr: 816 W, Diff: 146.48 W
+   [process_num_40] 2025-04-22_18-10-29    598,252.11 ops/sec  AvgPwr: 968.50 W, StartPwr: 816 W, Diff: 152.50 W
+   [process_num_40] 2025-04-22_18-50-05    682,626.93 ops/sec  AvgPwr: 1,016.64 W, StartPwr: 828 W, Diff: 188.64 W
+   ---------------------------------------------------------------------------
+   [process_num_50] 2025-04-18_20-46-12    740,153.75 ops/sec  AvgPwr: 1,012.97 W, StartPwr: 816 W, Diff: 196.97 W
+   [process_num_50] 2025-04-19_00-02-13    746,204.28 ops/sec  AvgPwr: 1,007.20 W, StartPwr: 780 W, Diff: 227.20 W
+   [process_num_50] 2025-04-19_03-18-07    754,281.23 ops/sec  AvgPwr: 1,007.60 W, StartPwr: 780 W, Diff: 227.60 W
+   [process_num_50] 2025-04-19_06-34-01    730,808.73 ops/sec  AvgPwr: 1,007.57 W, StartPwr: 780 W, Diff: 227.57 W
+   [process_num_50] 2025-04-19_09-49-59    730,970.64 ops/sec  AvgPwr: 1,022.80 W, StartPwr: 780 W, Diff: 242.80 W
+   [process_num_50] 2025-04-19_13-06-03    751,906.25 ops/sec  AvgPwr: 1,019.11 W, StartPwr: 780 W, Diff: 239.11 W
+   [process_num_50] 2025-04-22_16-05-40    642,260.16 ops/sec  AvgPwr: 979.89 W, StartPwr: 804 W, Diff: 175.89 W
+   [process_num_50] 2025-04-22_17-24-18    655,962.32 ops/sec  AvgPwr: 997.20 W, StartPwr: 804 W, Diff: 193.20 W
+   [process_num_50] 2025-04-22_18-56-31    741,159.04 ops/sec  AvgPwr: 1,049.79 W, StartPwr: 840 W, Diff: 209.79 W
+   ---------------------------------------------------------------------------
+   [process_num_60] 2025-04-18_20-53-23    761,256.00 ops/sec  AvgPwr: 1,032.00 W, StartPwr: 792 W, Diff: 240.00 W
+   [process_num_60] 2025-04-19_00-09-26    737,601.44 ops/sec  AvgPwr: 1,016.82 W, StartPwr: 792 W, Diff: 224.82 W
+   [process_num_60] 2025-04-19_03-25-17    752,361.68 ops/sec  AvgPwr: 1,014.17 W, StartPwr: 816 W, Diff: 198.17 W
+   [process_num_60] 2025-04-19_06-41-13    748,958.63 ops/sec  AvgPwr: 1,013.03 W, StartPwr: 780 W, Diff: 233.03 W
+   [process_num_60] 2025-04-19_09-57-11    748,675.85 ops/sec  AvgPwr: 1,031.29 W, StartPwr: 780 W, Diff: 251.29 W
+   [process_num_60] 2025-04-19_13-13-12    752,547.16 ops/sec  AvgPwr: 1,021.16 W, StartPwr: 780 W, Diff: 241.16 W
+   [process_num_60] 2025-04-22_17-16-37    740,215.81 ops/sec  AvgPwr: 997.71 W, StartPwr: 804 W, Diff: 193.71 W
+   [process_num_60] 2025-04-22_19-03-33    757,604.66 ops/sec  AvgPwr: 1,052.73 W, StartPwr: 840 W, Diff: 212.73 W
+   ---------------------------------------------------------------------------
+   [process_num_64] 2025-04-22_14-47-26    728,040.75 ops/sec  AvgPwr: 995.27 W, StartPwr: 804 W, Diff: 191.27 W
+   [process_num_64] 2025-04-22_14-55-58    727,467.49 ops/sec  AvgPwr: 996.00 W, StartPwr: 804 W, Diff: 192.00 W
+   [process_num_64] 2025-04-22_15-45-42    726,650.57 ops/sec  AvgPwr: 986.10 W, StartPwr: 804 W, Diff: 182.10 W
+   [process_num_64] 2025-04-22_16-34-02    726,535.95 ops/sec  AvgPwr: 994.50 W, StartPwr: 816 W, Diff: 178.50 W
+   [process_num_64] 2025-04-22_16-42-30    727,384.23 ops/sec  AvgPwr: 994.38 W, StartPwr: 816 W, Diff: 178.38 W
+   [process_num_64] 2025-04-22_17-08-35    746,304.49 ops/sec  AvgPwr: 1,007.37 W, StartPwr: 804 W, Diff: 203.37 W
+   [process_num_64] 2025-04-22_17-44-16    769,454.98 ops/sec  AvgPwr: 995.37 W, StartPwr: 816 W, Diff: 179.37 W
+   [process_num_64] 2025-04-22_17-52-23    766,801.00 ops/sec  AvgPwr: 1,001.82 W, StartPwr: 816 W, Diff: 185.82 W
+   [process_num_64] 2025-04-22_19-11-01    759,951.60 ops/sec  AvgPwr: 1,045.67 W, StartPwr: 840 W, Diff: 205.67 W
+   [process_num_64] 2025-04-22_19-43-00    755,406.61 ops/sec  AvgPwr: 1,055.67 W, StartPwr: 804 W, Diff: 251.67 W
+   [process_num_64] 2025-04-22_19-50-37    752,897.96 ops/sec  AvgPwr: 1,062.17 W, StartPwr: 816 W, Diff: 246.17 W
+   [process_num_64] 2025-04-22_20-07-16    759,799.71 ops/sec  AvgPwr: 1,040.00 W, StartPwr: 804 W, Diff: 236.00 W
+   [process_num_64] 2025-04-22_20-14-53    760,573.45 ops/sec  AvgPwr: 1,045.03 W, StartPwr: 816 W, Diff: 229.03 W
+   ---------------------------------------------------------------------------
+   [process_num_70] 2025-04-18_21-01-09    818,383.28 ops/sec  AvgPwr: 1,030.55 W, StartPwr: 780 W, Diff: 250.55 W
+   [process_num_70] 2025-04-19_00-17-14    822,064.77 ops/sec  AvgPwr: 1,019.68 W, StartPwr: 780 W, Diff: 239.68 W
+   [process_num_70] 2025-04-19_03-33-03    813,816.88 ops/sec  AvgPwr: 1,013.67 W, StartPwr: 780 W, Diff: 233.67 W
+   [process_num_70] 2025-04-19_06-48-58    820,124.61 ops/sec  AvgPwr: 1,027.35 W, StartPwr: 780 W, Diff: 247.35 W
+   [process_num_70] 2025-04-19_10-04-59    820,487.31 ops/sec  AvgPwr: 1,008.00 W, StartPwr: 792 W, Diff: 216.00 W
+   [process_num_70] 2025-04-19_13-20-59    822,996.88 ops/sec  AvgPwr: 1,026.80 W, StartPwr: 780 W, Diff: 246.80 W
+   ---------------------------------------------------------------------------
+   [process_num_80] 2025-04-18_21-09-54    866,407.19 ops/sec  AvgPwr: 1,022.27 W, StartPwr: 780 W, Diff: 242.27 W
+   [process_num_80] 2025-04-19_00-25-58    853,604.77 ops/sec  AvgPwr: 1,025.68 W, StartPwr: 780 W, Diff: 245.68 W
+   [process_num_80] 2025-04-19_03-41-44    853,607.02 ops/sec  AvgPwr: 996.98 W, StartPwr: 780 W, Diff: 216.98 W
+   [process_num_80] 2025-04-19_06-57-42    854,611.62 ops/sec  AvgPwr: 1,022.21 W, StartPwr: 780 W, Diff: 242.21 W
+   [process_num_80] 2025-04-19_10-13-42    857,828.49 ops/sec  AvgPwr: 1,006.91 W, StartPwr: 780 W, Diff: 226.91 W
+   [process_num_80] 2025-04-19_13-29-44    859,879.10 ops/sec  AvgPwr: 996.24 W, StartPwr: 780 W, Diff: 216.24 W
+   ---------------------------------------------------------------------------
+   [process_num_88] 2025-04-18_21-19-45    893,738.50 ops/sec  AvgPwr: 1,032.34 W, StartPwr: 780 W, Diff: 252.34 W
+   [process_num_88] 2025-04-19_00-35-41    922,084.81 ops/sec  AvgPwr: 1,027.14 W, StartPwr: 780 W, Diff: 247.14 W
+   [process_num_88] 2025-04-19_03-51-33    914,653.93 ops/sec  AvgPwr: 995.77 W, StartPwr: 780 W, Diff: 215.77 W
+   [process_num_88] 2025-04-19_07-07-25    919,703.38 ops/sec  AvgPwr: 1,008.32 W, StartPwr: 780 W, Diff: 228.32 W
+   [process_num_88] 2025-04-19_10-23-28    927,061.22 ops/sec  AvgPwr: 1,015.89 W, StartPwr: 780 W, Diff: 235.89 W
+   [process_num_88] 2025-04-19_13-39-36    917,937.89 ops/sec  AvgPwr: 1,014.17 W, StartPwr: 780 W, Diff: 234.17 W

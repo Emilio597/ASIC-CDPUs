@@ -1,0 +1,59 @@
+2025-04-21 20:45:04 - CPU_Util 5.9 6.7 0.0
+2025-04-21 20:45:04 - CPU 656 Watts MEM 12 Watts FAN 54 Watts Power 960 Watts PS1 AC lost 
+2025-04-21 20:45:07 - CPU_Util 10.3 8.4 0.0
+2025-04-21 20:45:07 - CPU 636 Watts MEM 12 Watts FAN 50 Watts Power 924 Watts PS1 AC lost 
+2025-04-21 20:45:09 - CPU_Util 7.7 5.8 0.0
+2025-04-21 20:45:09 - CPU 672 Watts MEM 33 Watts FAN 52 Watts Power 1008 Watts PS1 AC lost 
+2025-04-21 20:45:12 - CPU_Util 10.4 6.0 0.0
+2025-04-21 20:45:12 - CPU 656 Watts MEM 33 Watts FAN 50 Watts Power 960 Watts PS1 AC lost 
+2025-04-21 20:45:14 - CPU_Util 7.8 6.5 0.0
+2025-04-21 20:45:14 - CPU 668 Watts MEM 32 Watts FAN 52 Watts Power 972 Watts PS1 AC lost 
+2025-04-21 20:45:16 - CPU_Util 6.4 5.4 0.0
+2025-04-21 20:45:16 - CPU 652 Watts MEM 32 Watts FAN 52 Watts Power 972 Watts PS1 AC lost 
+2025-04-21 20:45:19 - CPU_Util 7.9 5.2 0.0
+2025-04-21 20:45:19 - CPU 644 Watts MEM 32 Watts FAN 54 Watts Power 948 Watts PS1 AC lost 
+2025-04-21 20:45:21 - CPU_Util 5.5 3.7 0.0
+2025-04-21 20:45:21 - CPU 636 Watts MEM 26 Watts FAN 52 Watts Power 936 Watts PS1 AC lost 
+2025-04-21 20:45:23 - CPU_Util 5.3 2.9 0.0
+2025-04-21 20:45:23 - CPU 624 Watts MEM 26 Watts FAN 50 Watts Power 924 Watts PS1 AC lost 
+2025-04-21 20:45:25 - CPU_Util 4.9 2.5 0.0
+2025-04-21 20:45:25 - CPU 620 Watts MEM 20 Watts FAN 52 Watts Power 912 Watts PS1 AC lost 
+2025-04-21 20:45:28 - CPU_Util 5.7 2.4 0.0
+2025-04-21 20:45:28 - CPU 616 Watts MEM 20 Watts FAN 54 Watts Power 912 Watts PS1 AC lost 
+2025-04-21 20:45:30 - CPU_Util 6.0 2.7 0.0
+2025-04-21 20:45:30 - CPU 620 Watts MEM 20 Watts FAN 52 Watts Power 912 Watts PS1 AC lost 
+2025-04-21 20:45:32 - CPU_Util 7.0 2.3 0.0
+2025-04-21 20:45:32 - CPU 620 Watts MEM 21 Watts FAN 52 Watts Power 912 Watts PS1 AC lost 
+2025-04-21 20:45:35 - CPU_Util 7.0 2.7 0.0
+2025-04-21 20:45:35 - CPU 624 Watts MEM 21 Watts FAN 54 Watts Power 912 Watts PS1 AC lost 
+2025-04-21 20:45:37 - CPU_Util 6.8 2.5 0.0
+2025-04-21 20:45:37 - CPU 620 Watts MEM 21 Watts FAN 52 Watts Power 912 Watts PS1 AC lost 
+2025-04-21 20:45:40 - CPU_Util 7.1 2.7 0.0
+2025-04-21 20:45:40 - CPU 624 Watts MEM 21 Watts FAN 50 Watts Power 912 Watts PS1 AC lost 
+2025-04-21 20:45:42 - CPU_Util 6.9 2.4 0.0
+2025-04-21 20:45:42 - CPU 624 Watts MEM 21 Watts FAN 52 Watts Power 912 Watts PS1 AC lost 
+2025-04-21 20:45:44 - CPU_Util 7.1 3.5 0.0
+2025-04-21 20:45:44 - CPU 628 Watts MEM 21 Watts FAN 52 Watts Power 924 Watts PS1 AC lost 
+2025-04-21 20:45:46 - CPU_Util 5.7 3.6 0.0
+2025-04-21 20:45:46 - CPU 632 Watts MEM 24 Watts FAN 50 Watts Power 924 Watts PS1 AC lost 
+2025-04-21 20:45:49 - CPU_Util 7.3 4.0 0.0
+2025-04-21 20:45:49 - CPU 628 Watts MEM 24 Watts FAN 54 Watts Power 924 Watts PS1 AC lost 
+2025-04-21 20:45:51 - CPU_Util 6.1 3.5 0.0
+2025-04-21 20:45:51 - CPU 628 Watts MEM 24 Watts FAN 50 Watts Power 924 Watts PS1 AC lost 
+2025-04-21 20:45:53 - CPU_Util 5.1 3.2 0.0
+2025-04-21 20:45:53 - CPU 624 Watts MEM 23 Watts FAN 52 Watts Power 912 Watts PS1 AC lost 
+2025-04-21 20:45:55 - CPU_Util 4.9 3.6 0.0
+2025-04-21 20:45:55 - CPU 620 Watts MEM 23 Watts FAN 54 Watts Power 912 Watts PS1 AC lost 
+2025-04-21 20:45:58 - CPU_Util 4.0 4.2 0.0
+2025-04-21 20:45:58 - CPU 624 Watts MEM 23 Watts FAN 54 Watts Power 912 Watts PS1 AC lost 
+CPU_Avg_Utilization_Stats: Column 1 average: 6.61666666666666666666
+CPU_Avg_Utilization_Stats: Column 2 average: 4.01666666666666666666
+CPU_Avg_Utilization_Stats: Column 3 average: 0
+CPU_Max_Power_Line_Stats: Column 1 max: 672
+CPU_Max_Power_Line_Stats: Column 2 max: 33
+CPU_Max_Power_Line_Stats: Column 3 max: 52
+CPU_Max_Power_Line_Stats: Column 4 max: 1008
+CPU_Avg_Power_Stats: Column 1 average: 633.16666666666666666666
+CPU_Avg_Power_Stats: Column 2 average: 23.54166666666666666666
+CPU_Avg_Power_Stats: Column 3 average: 52.08333333333333333333
+CPU_Avg_Power_Stats: Column 4 average: 930.50000000000000000000

@@ -1,0 +1,11 @@
+6.9.0++
+qat_4xxx.ko.zst.bak
+qat_c62x.ko.zst.bak
+compression_option=no
+Processed 1 file, 64 regular extents (64 refs), 0 inline.
+Type       Perc     Disk Usage   Uncompressed Referenced  
+TOTAL      100%     8495001600   8495001600   8495001600  
+none       100%     8495001600   8495001600   8495001600  
+
+8295900	/home/user/mount_point/sorted_t16.bam
+

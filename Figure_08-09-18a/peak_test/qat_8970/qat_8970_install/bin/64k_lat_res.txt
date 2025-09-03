@@ -1,0 +1,66 @@
+WARNING! Param Check is enabled, this may effect Latency computation
+WARNING! Stats enabled, this may effect Latency computation
+Latency computation Enabled
+qaeMemInit started
+icp_sal_userStartMultiProcess("SSL") started
+*** QA version information ***
+device ID               = 0
+software                = 4.22.0
+*** END QA version information ***
+Limiting to use single QAT Instance for Latency computation
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF AA:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+CNV Enabled            YES
+Direction              COMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Corpus Filename        calgary
+CNV Recovery Enabled   YES
+Number of threads      1
+Total Responses        4900
+Total Retries          0
+Clock Cycles Start     8044198829431
+Clock Cycles End       8047395517079
+Total Cycles           3196687648
+CPU Frequency(kHz)     2700153
+Throughput(Mbps)       2171
+Compression Ratio      0.4820
+Min. Latency (uSecs)      189
+Ave. Latency (uSecs)      190
+Max. Latency (uSecs)      191
+---------------------------------------
+
+Inst 0, Affin: 0, Dev: 0, Accel 0, EE 0, BDF AA:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Corpus Filename        calgary
+CNV Recovery Enabled   YES
+Number of threads      1
+Total Responses        4900
+Total Retries          0
+Clock Cycles Start     8047454235529
+Clock Cycles End       8048860133057
+Total Cycles           1405897528
+CPU Frequency(kHz)     2700153
+Throughput(Mbps)       4940
+Compression Ratio      0.4820
+Min. Latency (uSecs)      80
+Ave. Latency (uSecs)      80
+Max. Latency (uSecs)      80
+---------------------------------------
+
+Sample code completed successfully.
