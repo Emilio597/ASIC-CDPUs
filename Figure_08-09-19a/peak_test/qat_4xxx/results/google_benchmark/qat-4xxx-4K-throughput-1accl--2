@@ -1,0 +1,59 @@
+Latency computation Disabled
+qaeMemInit started
+icp_sal_userStartMultiProcess("SSL") started
+*** QA version information ***
+device ID		= 3
+software 		= 1.1.50
+*** END QA version information ***
+Inst 0, Affin: 3, Dev: 3, Accel 0, EE 0, BDF 6B:00:00
+Inst 1, Affin: 4, Dev: 3, Accel 0, EE 0, BDF 6B:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+CNV Enabled            YES
+Direction              COMPRESS
+Packet Size            4096
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Corpus Filename        calgary
+CNV Recovery Enabled   YES
+Number of threads      2
+Total Responses        256000
+Total Retries          1280802
+Clock Cycles Start     210100865288069
+Clock Cycles End       210102101571267
+Total Cycles           1236283198
+CPU Frequency(kHz)     2700147
+Throughput(Mbps)       18355
+Compression Ratio      0.2951
+---------------------------------------
+
+Inst 0, Affin: 3, Dev: 3, Accel 0, EE 0, BDF 6B:00:00
+Inst 1, Affin: 4, Dev: 3, Accel 0, EE 0, BDF 6B:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            4096
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Corpus Filename        calgary
+CNV Recovery Enabled   YES
+Number of threads      2
+Total Responses        256000
+Total Retries          572933
+Clock Cycles Start     210120401009889
+Clock Cycles End       210121117251525
+Total Cycles           716241636
+CPU Frequency(kHz)     2700147
+Throughput(Mbps)       31655
+Compression Ratio      0.2951
+---------------------------------------
+
+Sample code completed successfully.

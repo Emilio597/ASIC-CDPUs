@@ -1,0 +1,661 @@
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_10/2024-12-24_20-07-07	336946.0666666667
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_10/2024-12-24_20-05-51	341332.73333333334
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_50/2024-12-24_21-43-38	912964.4000000001
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_33/2024-12-25_01-07-12	786356.2000000001
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_33/2024-12-25_01-09-12	737228.8666666667
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_40/2024-12-24_21-50-39	986401.7333333335
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_40/2024-12-24_21-52-52	988713.7999999999
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_25/2024-12-24_20-14-11	655869.7333333334
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_25/2024-12-24_20-15-55	666654.5999999999
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_15/2024-12-24_20-09-45	441172.4000000001
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_15/2024-12-24_20-08-24	424479.5333333332
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_5/2024-12-24_20-03-28	194819.8
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_5/2024-12-24_20-04-40	201241.2666666667
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_30/2024-12-24_20-17-38	932078.9999999999
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_30/2024-12-24_20-19-33	924312.6666666667
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_20/2024-12-24_20-12-39	761597.5333333334
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_20/2024-12-24_20-11-07	764848.2666666666
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_32/2024-12-25_01-45-22	886232.2000000002
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_32/2024-12-25_01-43-22	891278.9333333333
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_35/2024-12-25_01-13-17	857168.3333333331
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_35/2024-12-25_01-11-13	768949.2
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_31/2024-12-25_01-03-17	904957.4666666664
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-1socket/process_num_31/2024-12-25_01-05-15	930860.6666666669
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_10/2024-12-24_20-53-04	344474.06666666665
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_10/2024-12-24_20-51-48	367533.7333333333
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_60/2024-12-24_22-50-55	1299191.3333333333
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_60/2024-12-24_22-53-25	1475587.333333333
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_50/2024-12-24_22-48-44	1249400.2666666666
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_50/2024-12-24_22-46-33	1387123.3333333337
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_40/2024-12-24_21-06-23	1122634.7999999998
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_40/2024-12-24_21-08-17	1067141.4
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_70/2024-12-24_22-55-56	1512863.7999999998
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_70/2024-12-24_22-58-46	1594457.2666666668
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_25/2024-12-24_21-01-30	748998.0
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_25/2024-12-24_20-59-57	797989.2
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_15/2024-12-24_20-55-42	515564.6
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_15/2024-12-24_20-54-20	500986.33333333326
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_5/2024-12-24_20-50-38	161725.93333333332
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_5/2024-12-24_20-49-28	165832.60000000003
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_30/2024-12-24_21-03-03	801688.2666666667
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_30/2024-12-24_21-04-43	930007.4000000001
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_90/2024-12-24_23-42-24	1212150.9333333333
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_90/2024-12-24_23-45-47	1268491.733333333
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_20/2024-12-24_20-57-03	660581.5333333333
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_20/2024-12-24_20-58-29	660165.7333333334
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_120/2024-12-24_23-49-12	1665757.2000000002
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_120/2024-12-24_23-53-59	1469545.5999999999
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_150/2024-12-25_00-05-01	1917623.3333333333
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/NoComp/process_num_150/2024-12-24_23-58-51	1828216.6
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_10/2024-12-24_21-16-38	292234.19999999995
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_10/2024-12-24_21-14-28	277880.6666666667
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_60/2024-12-24_23-09-51	1069672.066666667
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_60/2024-12-24_23-06-57	1136657.8
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_50/2024-12-24_23-04-16	1057441.6666666667
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_50/2024-12-24_23-01-35	1038930.8666666667
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_40/2024-12-24_21-37-02	990778.2666666666
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_40/2024-12-24_21-39-31	983854.7333333334
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_70/2024-12-24_23-15-52	1301720.4666666666
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_70/2024-12-24_23-12-43	1447033.3999999994
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_25/2024-12-24_21-30-03	653605.9333333333
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_25/2024-12-24_21-27-45	655533.1999999998
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_15/2024-12-24_21-18-50	409249.4666666667
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_15/2024-12-24_21-21-03	421076.0
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_5/2024-12-24_21-10-12	141463.33333333334
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_5/2024-12-24_21-12-20	140793.6666666667
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_30/2024-12-24_21-32-22	758336.2000000001
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_30/2024-12-24_21-34-42	764343.6666666667
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_90/2024-12-25_00-11-08	1308327.9333333329
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_90/2024-12-25_00-14-49	1481960.5999999999
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_20/2024-12-24_21-23-16	565601.4666666667
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_20/2024-12-24_21-25-30	541369.3999999999
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_120/2024-12-25_00-23-11	1809019.3333333337
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_120/2024-12-25_00-18-30	1813290.7333333339
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_150/2024-12-25_00-27-50	1917930.2000000004
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/ZLIB/process_num_150/2024-12-25_00-34-03	1529883.0666666667
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_10/2024-12-25_02-11-16	318547.9333333333
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_10/2024-12-25_02-12-35	322868.8666666667
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_60/2024-12-25_02-34-25	1463431.5333333334
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_60/2024-12-25_02-36-58	1413839.7333333332
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_50/2024-12-25_02-32-13	1289989.5999999994
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_50/2024-12-25_02-30-02	1199486.3333333333
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_40/2024-12-25_02-28-08	1037676.8000000002
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_40/2024-12-25_02-26-12	1037108.4
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_70/2024-12-25_02-39-30	1697302.3333333326
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_70/2024-12-25_02-42-20	1698693.0666666662
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_25/2024-12-25_02-21-14	709086.3333333333
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_25/2024-12-25_02-19-39	712957.7333333334
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_15/2024-12-25_02-13-54	494392.4666666666
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_15/2024-12-25_02-15-18	488045.93333333335
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_5/2024-12-25_02-10-02	169923.40000000002
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_5/2024-12-25_02-08-50	166907.73333333334
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_30/2024-12-25_02-22-49	782320.3999999999
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_30/2024-12-25_02-24-30	781004.9999999998
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_90/2024-12-25_02-45-06	1424163.2
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_90/2024-12-25_02-48-31	1410435.9333333338
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_20/2024-12-25_02-16-42	626322.0
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_20/2024-12-25_02-18-10	625825.0666666665
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_120/2024-12-25_02-56-49	1603325.8000000003
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_120/2024-12-25_02-51-59	1720810.066666667
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_150/2024-12-25_03-01-43	1603959.6666666663
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/CSD/process_num_150/2024-12-25_03-07-57	1268019.2
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_10/2024-12-24_20-30-19	367439.6
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_10/2024-12-24_20-31-35	363837.60000000003
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_50/2024-12-24_22-03-17	1053568.3333333333
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_33/2024-12-25_01-20-30	965777.0
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_33/2024-12-25_01-18-43	1018489.0
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_40/2024-12-24_20-45-13	1057089.5333333332
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_40/2024-12-24_20-47-19	1062077.9999999998
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_25/2024-12-24_20-40-09	1010240.5333333334
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_25/2024-12-24_20-38-33	1014231.7999999999
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_15/2024-12-24_20-32-52	493347.13333333336
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_15/2024-12-24_20-34-13	468435.6666666666
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_5/2024-12-24_20-27-49	201267.0
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_5/2024-12-24_20-29-07	199913.2
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_30/2024-12-24_20-43-27	1025074.5999999999
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_30/2024-12-24_20-41-46	1127893.3333333333
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_20/2024-12-24_20-35-35	763731.5333333332
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_20/2024-12-24_20-37-05	772378.6666666666
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_32/2024-12-25_01-47-22	1143009.9333333333
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_32/2024-12-25_01-49-06	1158915.6666666667
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_35/2024-12-25_01-24-09	1072813.133333333
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_35/2024-12-25_01-22-19	1067956.0
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_31/2024-12-25_01-15-21	1166053.2666666668
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-4XXX-2socket/process_num_31/2024-12-25_01-17-03	1152243.666666667
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_10/2024-12-25_04-01-08	369286.4
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_10/2024-12-25_03-59-40	374849.73333333334
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_50/2024-12-25_04-23-09	851046.6000000001
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_33/2024-12-25_10-10-15	913467.2666666666
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_33/2024-12-25_10-12-28	862435.6666666667
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_40/2024-12-25_04-18-22	849109.1333333333
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_40/2024-12-25_04-20-49	985306.9333333336
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_25/2024-12-25_04-12-03	765821.2666666666
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_25/2024-12-25_04-10-02	778368.5333333332
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_15/2024-12-25_04-02-37	492011.0666666667
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_15/2024-12-25_04-04-22	506797.53333333327
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_5/2024-12-25_03-56-47	189532.2666666667
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_5/2024-12-25_03-58-15	200540.0
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_30/2024-12-25_04-16-13	785763.9333333333
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_30/2024-12-25_04-14-05	969981.2666666666
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_20/2024-12-25_04-08-06	542111.0666666667
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_20/2024-12-25_04-06-08	647460.1333333333
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_32/2024-12-25_10-05-54	800818.8666666666
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_32/2024-12-25_10-08-05	801529.0666666665
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_31/2024-12-25_10-01-34	983810.2666666667
+PATH: /home/user/Programs/YCSB-parallel-test/results-bak2/QAT-8970/process_num_31/2024-12-25_10-03-44	816958.2666666665
+
+
+
+
+
+
+

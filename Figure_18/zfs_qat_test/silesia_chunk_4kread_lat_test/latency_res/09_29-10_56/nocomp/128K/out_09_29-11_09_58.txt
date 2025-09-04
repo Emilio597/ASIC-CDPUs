@@ -1,0 +1,43 @@
+#############################################################
+align: (g=0): rw=randread, bs=(R) 4096B-4096B, (W) 4096B-4096B, (T) 4096B-4096B, ioengine=psync, iodepth=1
+fio-3.35-118-g4a0c76
+Starting 1 process
+
+align: (groupid=0, jobs=1): err= 0: pid=6680: Sun Sep 29 11:11:06 2024
+  read: IOPS=5806, BW=22.7MiB/s (23.8MB/s)(1513MiB/66694msec)
+    clat (usec): min=14, max=1168, avg=132.58, stdev=23.24
+     lat (usec): min=14, max=1168, avg=132.59, stdev=23.24
+    clat percentiles (usec):
+     |  1.00th=[  117],  5.00th=[  121], 10.00th=[  123], 20.00th=[  125],
+     | 30.00th=[  127], 40.00th=[  128], 50.00th=[  129], 60.00th=[  131],
+     | 70.00th=[  133], 80.00th=[  135], 90.00th=[  145], 95.00th=[  155],
+     | 99.00th=[  217], 99.50th=[  251], 99.90th=[  359], 99.95th=[  429],
+     | 99.99th=[  922]
+   bw (  KiB/s): min= 8664, max=29176, per=100.00%, avg=23242.52, stdev=3530.05, samples=133
+   iops        : min= 2166, max= 7294, avg=5810.65, stdev=882.54, samples=133
+  lat (usec)   : 20=0.21%, 50=0.01%, 250=99.29%, 500=0.47%, 750=0.02%
+  lat (usec)   : 1000=0.01%
+  lat (msec)   : 2=0.01%
+  cpu          : usr=23.22%, sys=8.40%, ctx=386980, majf=0, minf=9
+  IO depths    : 1=100.0%, 2=0.0%, 4=0.0%, 8=0.0%, 16=0.0%, 32=0.0%, >=64=0.0%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=100.0%, 4=0.1%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     issued rwts: total=387238,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=1
+
+Run status group 0 (all jobs):
+   READ: bw=22.7MiB/s (23.8MB/s), 22.7MiB/s-22.7MiB/s (23.8MB/s-23.8MB/s), io=1513MiB (1586MB), run=66694-66694msec
+ 
+zfs_prefetch_disable: 1
+zfs_arc_max_val: 0
+zfs_arc_min_val: 0
+zfs_qat_compress_disable: 
+ 
+compress_type: NAME         PROPERTY     VALUE           SOURCE
+mypool/myfs  compression  off             local
+ 
+blocksize: NAME         PROPERTY    VALUE    SOURCE
+mypool/myfs  recordsize  128K     local
+ 
+iters: 2
+output_path: ./latency_res/09_29-10_56/nocomp/128K

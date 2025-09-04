@@ -1,0 +1,45 @@
+#############################################################
+align: (g=0): rw=randread, bs=(R) 4096B-4096B, (W) 4096B-4096B, (T) 4096B-4096B, ioengine=psync, iodepth=1
+fio-3.35-118-g4a0c76
+Starting 1 process
+
+fio: terminating on signal 2
+
+align: (groupid=0, jobs=1): err= 0: pid=7884: Sun Sep 29 14:55:18 2024
+  read: IOPS=5961, BW=23.3MiB/s (24.4MB/s)(834MiB/35832msec)
+    clat (usec): min=3, max=1193, avg=91.05, stdev=49.62
+     lat (usec): min=3, max=1193, avg=91.07, stdev=49.62
+    clat percentiles (usec):
+     |  1.00th=[   57],  5.00th=[   59], 10.00th=[   60], 20.00th=[   62],
+     | 30.00th=[   66], 40.00th=[   70], 50.00th=[   77], 60.00th=[   85],
+     | 70.00th=[   91], 80.00th=[   98], 90.00th=[  157], 95.00th=[  194],
+     | 99.00th=[  293], 99.50th=[  318], 99.90th=[  429], 99.95th=[  486],
+     | 99.99th=[  594]
+   bw (  KiB/s): min= 5208, max=29648, per=100.00%, avg=23889.58, stdev=4247.50, samples=71
+   iops        : min= 1302, max= 7412, avg=5972.39, stdev=1061.87, samples=71
+  lat (usec)   : 4=0.01%, 10=0.24%, 20=0.02%, 50=0.15%, 100=81.05%
+  lat (usec)   : 250=15.75%, 500=2.74%, 750=0.04%, 1000=0.01%
+  lat (msec)   : 2=0.01%
+  cpu          : usr=45.39%, sys=11.16%, ctx=233509, majf=0, minf=8
+  IO depths    : 1=100.0%, 2=0.0%, 4=0.0%, 8=0.0%, 16=0.0%, 32=0.0%, >=64=0.0%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=100.0%, 4=0.1%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     issued rwts: total=213600,0,0,0 short=0,0,0,0 dropped=0,0,0,0
+     latency   : target=0, window=0, percentile=100.00%, depth=1
+
+Run status group 0 (all jobs):
+   READ: bw=23.3MiB/s (24.4MB/s), 23.3MiB/s-23.3MiB/s (24.4MB/s-24.4MB/s), io=834MiB (875MB), run=35832-35832msec
+ 
+zfs_prefetch_disable: 1
+zfs_arc_max_val: 0
+zfs_arc_min_val: 0
+zfs_qat_compress_disable: 
+ 
+compress_type: NAME         PROPERTY     VALUE           SOURCE
+mypool/myfs  compression  gzip-1          local
+ 
+blocksize: NAME         PROPERTY    VALUE    SOURCE
+mypool/myfs  recordsize  4K       local
+ 
+iters: 2
+output_path: ./latency_res/09_29-14_52/qat/4K

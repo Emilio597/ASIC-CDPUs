@@ -1,0 +1,66 @@
+WARNING! Param Check is enabled, this may effect Latency computation
+WARNING! Stats enabled, this may effect Latency computation
+Latency computation Enabled
+qaeMemInit started
+icp_sal_userStartMultiProcess("SSL") started
+*** QA version information ***
+device ID		= 0
+software 		= 1.1.50
+*** END QA version information ***
+Limiting to use single QAT Instance for Latency computation
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+CNV Enabled            YES
+Direction              COMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Corpus Filename        calgary
+CNV Recovery Enabled   YES
+Number of threads      1
+Total Responses        8000
+Total Retries          0
+Clock Cycles Start     188517050126745
+Clock Cycles End       188521356088901
+Total Cycles           4305962156
+CPU Frequency(kHz)     2700156
+Throughput(Mbps)       2631
+Compression Ratio      0.2831
+Min. Latency (uSecs)      170
+Ave. Latency (uSecs)      203
+Max. Latency (uSecs)      271
+---------------------------------------
+
+Inst 0, Affin: 1, Dev: 0, Accel 0, EE 0, BDF DA:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           DYNAMIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Corpus Filename        calgary
+CNV Recovery Enabled   YES
+Number of threads      1
+Total Responses        8000
+Total Retries          0
+Clock Cycles Start     188526546363239
+Clock Cycles End       188528349557405
+Total Cycles           1803194166
+CPU Frequency(kHz)     2700156
+Throughput(Mbps)       6288
+Compression Ratio      0.2831
+Min. Latency (uSecs)      61
+Ave. Latency (uSecs)      85
+Max. Latency (uSecs)      124
+---------------------------------------
+
+Sample code completed successfully.

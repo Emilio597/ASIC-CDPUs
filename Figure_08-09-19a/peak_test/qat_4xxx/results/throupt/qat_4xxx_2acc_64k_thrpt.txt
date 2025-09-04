@@ -1,0 +1,80 @@
+qaeMemInit started
+icp_sal_userStartMultiProcess("SSL") started
+*** QA version information ***
+device ID		= 0
+software 		= 1.1.50
+*** END QA version information ***
+*** QA version information ***
+device ID		= 1
+software 		= 1.1.50
+*** END QA version information ***
+*** QA version information ***
+device ID		= 0
+software 		= 1.1.50
+*** END QA version information ***
+*** QA version information ***
+device ID		= 1
+software 		= 1.1.50
+*** END QA version information ***
+Inst 0, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 6B:00:00
+Inst 1, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 6B:00:00
+Inst 2, Affin: 7, Dev: 1, Accel 0, EE 0, BDF E8:00:00
+Inst 3, Affin: 8, Dev: 1, Accel 0, EE 0, BDF E8:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+CNV Enabled            YES
+Direction              COMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Corpus Filename        calgary
+CNV Recovery Enabled   YES
+Number of threads      4
+Total Responses        1960000
+Total Retries          97024738
+Clock Cycles Start     252636375690221
+Clock Cycles End       252671454051285
+Total Cycles           35078361064
+CPU Frequency(kHz)     2700152
+Throughput(Mbps)       79101
+Compression Ratio      0.4311
+---------------------------------------
+
+Inst 0, Affin: 3, Dev: 0, Accel 0, EE 0, BDF 6B:00:00
+Inst 1, Affin: 4, Dev: 0, Accel 0, EE 0, BDF 6B:00:00
+Inst 2, Affin: 7, Dev: 1, Accel 0, EE 0, BDF E8:00:00
+Inst 3, Affin: 8, Dev: 1, Accel 0, EE 0, BDF E8:00:00
+---------------------------------------
+API                    Traditional
+Session State          STATELESS
+Algorithm              DEFLATE
+Huffman Type           STATIC
+Mode                   ASYNCHRONOUS
+Direction              DECOMPRESS
+Packet Size            65536
+Compression Level      1
+Corpus                 CALGARY_CORPUS
+Corpus Filename        calgary
+CNV Recovery Enabled   YES
+Number of threads      4
+Total Responses        1960000
+Total Retries          69906453
+Clock Cycles Start     252671502971769
+Clock Cycles End       252696701743875
+Total Cycles           25198772106
+CPU Frequency(kHz)     2700152
+Throughput(Mbps)       110116
+Compression Ratio      0.4311
+---------------------------------------
+
+Sample code completed successfully.
+
+
+CPU 572 Watts
+MEM 10 Watts
+FAN 28 Watts
+Power 828 Watts

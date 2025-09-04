@@ -1,0 +1,13 @@
+[global]
+rw=randread
+bs=64K
+iodepth=1
+direct=1
+ioengine=libaio
+group_reporting
+
+
+
+[job1]
+filename=/dev/nvme0n1
+read_iolog=./trace_dir/trace_1.log

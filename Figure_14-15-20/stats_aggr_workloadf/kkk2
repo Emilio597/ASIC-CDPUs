@@ -1,0 +1,489 @@
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_10/2025-01-04_16-05-41	READ=28.62 UPDATE=11.04 
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_10/2025-01-04_16-06-59	READ=27.82 UPDATE=10.85 
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_60/2025-01-04_16-25-26	READ=68.43 UPDATE=23.00 
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_60/2025-01-04_16-22-56	READ=68.21 UPDATE=22.25 
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_50/2025-01-04_16-18-31	READ=55.21 UPDATE=19.08 
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_50/2025-01-04_16-20-44	READ=56.18 UPDATE=18.68 
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_40/2025-01-04_16-16-36	READ=45.07 UPDATE=15.92 
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_40/2025-01-04_16-14-40	READ=45.68 UPDATE=15.61 
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_70/2025-01-04_16-27-59	READ=66.09 UPDATE=22.40 
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_70/2025-01-04_16-30-49	READ=66.52 UPDATE=24.79 
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_80/2025-01-04_16-36-39	READ=75.08 UPDATE=26.75 
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_80/2025-01-04_16-33-35	READ=72.68 UPDATE=27.85 
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_30/2025-01-04_16-11-14	READ=38.77 UPDATE=13.47 
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_30/2025-01-04_16-12-58	READ=41.82 UPDATE=14.49 
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_20/2025-01-04_16-08-17	READ=34.35 UPDATE=12.31 
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_20/2025-01-04_16-09-45	READ=34.45 UPDATE=12.48 
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_88/2025-01-04_16-43-04	READ=70.35 UPDATE=27.41 
+PATH: /home/user/Programs/YCSB-parallel-test/results/NoComp/process_num_88/2025-01-04_16-39-43	READ=75.70 UPDATE=29.65 
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_10/2025-01-04_16-46-19	READ=50.15 UPDATE=11.37 
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_10/2025-01-04_16-48-28	READ=49.39 UPDATE=11.22 
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_60/2025-01-04_17-10-22	READ=54.33 UPDATE=14.67 
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_60/2025-01-04_18-22-31	READ=54.80 UPDATE=15.36 
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_60/2025-01-04_17-13-21	READ=54.42 UPDATE=15.40 
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_60/2025-01-04_18-19-35	READ=54.33 UPDATE=15.26 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_50/2025-01-04_17-04-56	READ=55.40 UPDATE=14.34 
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_50/2025-01-04_18-30-10	READ=55.81 UPDATE=14.19 
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_50/2025-01-04_17-07-40	READ=64.82 UPDATE=14.36 
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_50/2025-01-04_18-27-29	READ=54.56 UPDATE=14.41 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_40/2025-01-04_16-59-53	READ=48.59 UPDATE=12.60 
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_40/2025-01-04_17-02-26	READ=46.92 UPDATE=12.38 
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_70/2025-01-04_17-16-15	READ=60.42 UPDATE=17.41 
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_70/2025-01-04_17-19-21	READ=65.75 UPDATE=18.15 
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_70/2025-01-04_18-07-55	READ=61.22 UPDATE=18.07 
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_70/2025-01-04_18-04-48	READ=80.13 UPDATE=18.40 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_80/2025-01-04_17-22-28	READ=87.39 UPDATE=23.06 
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_80/2025-01-04_17-25-53	READ=71.80 UPDATE=21.17 
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_30/2025-01-04_16-55-10	READ=46.77 UPDATE=11.93 
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_30/2025-01-04_16-57-32	READ=45.73 UPDATE=11.93 
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_20/2025-01-04_16-52-55	READ=44.34 UPDATE=11.44 
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_20/2025-01-04_16-50-39	READ=44.78 UPDATE=11.46 
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_88/2025-01-04_17-29-18	READ=87.82 UPDATE=23.18 
+PATH: /home/user/Programs/YCSB-parallel-test/results/ZLIB/process_num_88/2025-01-04_17-33-03	READ=86.51 UPDATE=22.85 
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_10/2025-01-04_19-33-51	READ=30.44 UPDATE=10.95 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_10/2025-01-04_18-50-29	READ=30.59 UPDATE=11.08 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_10/2025-01-04_19-35-10	READ=31.59 UPDATE=11.09 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_10/2025-01-04_18-51-48	READ=29.42 UPDATE=10.87 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_60/2025-01-04_19-53-37	READ=62.46 UPDATE=21.28 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_60/2025-01-04_19-07-40	READ=61.39 UPDATE=20.59 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_60/2025-01-04_19-51-09	READ=58.83 UPDATE=19.96 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_60/2025-01-04_19-10-13	READ=65.74 UPDATE=21.70 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_50/2025-01-04_19-05-31	READ=52.99 UPDATE=18.44 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_50/2025-01-04_19-03-20	READ=55.21 UPDATE=19.34 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_50/2025-01-04_19-48-58	READ=55.65 UPDATE=19.60 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_50/2025-01-04_19-46-45	READ=49.61 UPDATE=17.71 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_40/2025-01-04_19-42-54	READ=47.10 UPDATE=15.14 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_40/2025-01-04_19-44-50	READ=45.05 UPDATE=15.54 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_40/2025-01-04_19-01-26	READ=43.27 UPDATE=15.61 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_40/2025-01-04_18-59-30	READ=44.76 UPDATE=15.14 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_70/2025-01-04_19-56-08	READ=63.37 UPDATE=21.91 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_70/2025-01-04_19-15-32	READ=71.34 UPDATE=23.96 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_70/2025-01-04_19-58-57	READ=65.02 UPDATE=21.66 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_70/2025-01-04_19-12-44	READ=62.86 UPDATE=22.12 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_80/2025-01-04_20-04-50	READ=75.39 UPDATE=26.79 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_80/2025-01-04_19-18-23	READ=67.67 UPDATE=28.71 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_80/2025-01-04_20-01-43	READ=75.27 UPDATE=28.30 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_80/2025-01-04_19-21-28	READ=69.17 UPDATE=26.95 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_30/2025-01-04_18-56-06	READ=38.40 UPDATE=12.75 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_30/2025-01-04_19-41-11	READ=38.21 UPDATE=13.01 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_30/2025-01-04_18-57-48	READ=37.52 UPDATE=13.12 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_30/2025-01-04_19-39-27	READ=38.78 UPDATE=13.65 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_20/2025-01-04_19-37-58	READ=34.62 UPDATE=12.24 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_20/2025-01-04_18-53-07	READ=35.86 UPDATE=12.38 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_20/2025-01-04_19-36-29	READ=35.28 UPDATE=12.28 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_20/2025-01-04_18-54-36	READ=36.32 UPDATE=12.49 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_88/2025-01-04_20-11-21	READ=70.49 UPDATE=28.62 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_88/2025-01-04_19-24-36	READ=76.16 UPDATE=35.58 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_88/2025-01-04_19-27-53	READ=68.33 UPDATE=28.64 
+PATH: /home/user/Programs/YCSB-parallel-test/results/CSD/process_num_88/2025-01-04_20-07-57	READ=70.66 UPDATE=28.64 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-4XXX-2socket/process_num_10/2025-01-14_21-36-24	READ=24.32 UPDATE=11.32 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-4XXX-2socket/process_num_10/2025-01-14_21-35-07	READ=24.78 UPDATE=11.56 
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-4XXX-2socket/process_num_60/2025-01-14_21-52-22	READ=53.59 UPDATE=18.63 
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-4XXX-2socket/process_num_50/2025-01-14_21-50-10	READ=45.10 UPDATE=16.78 
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-4XXX-2socket/process_num_40/2025-01-14_21-44-02	READ=34.50 UPDATE=14.36 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-4XXX-2socket/process_num_40/2025-01-14_21-46-00	READ=34.71 UPDATE=14.30 
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-4XXX-2socket/process_num_30/2025-01-14_21-40-36	READ=36.31 UPDATE=13.72 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-4XXX-2socket/process_num_30/2025-01-14_21-42-20	READ=33.26 UPDATE=13.38 
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-4XXX-2socket/process_num_20/2025-01-14_21-37-41	READ=23.99 UPDATE=11.61 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-4XXX-2socket/process_num_20/2025-01-14_21-39-10	READ=28.46 UPDATE=11.97 
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_10/2025-01-05_11-48-53	READ=30.94 UPDATE=10.67 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_10/2025-01-05_11-47-22	READ=31.01 UPDATE=10.63 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_10/2025-01-05_11-51-55	READ=31.85 UPDATE=10.80 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_10/2025-01-05_11-50-24	READ=30.06 UPDATE=10.44 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_60/2025-01-08_17-55-16	READ=88.26 UPDATE=15.62 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_60/2025-01-08_17-10-49	READ=65.63 UPDATE=15.02 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_60/2025-01-08_17-48-53	READ=81.27 UPDATE=15.60 
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_50/2025-01-08_17-43-19	READ=75.20 UPDATE=14.12 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_50/2025-01-08_17-40-32	READ=57.98 UPDATE=13.51 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_50/2025-01-08_17-08-03	READ=72.28 UPDATE=14.68 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_50/2025-01-08_17-46-07	READ=72.74 UPDATE=14.18 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_40/2025-01-08_17-38-04	READ=54.79 UPDATE=12.89 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_40/2025-01-08_17-05-35	READ=57.33 UPDATE=13.68 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_40/2025-01-08_17-35-36	READ=55.48 UPDATE=13.64 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_40/2025-01-08_17-33-04	READ=50.92 UPDATE=12.84 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_30/2025-01-05_12-05-23	READ=48.60 UPDATE=12.29 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_30/2025-01-05_12-07-31	READ=51.08 UPDATE=12.43 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_30/2025-01-05_12-01-07	READ=45.29 UPDATE=11.92 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_30/2025-01-05_12-03-14	READ=44.65 UPDATE=11.74 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_20/2025-01-05_11-59-12	READ=46.48 UPDATE=11.32 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_20/2025-01-05_11-57-18	READ=36.81 UPDATE=10.88 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_20/2025-01-05_11-55-22	READ=43.17 UPDATE=11.18 
+PATH: /home/user/Programs/YCSB-parallel-test/results/QAT-8970/process_num_20/2025-01-05_11-53-26	READ=37.51 UPDATE=11.00 
+
+
+
+
+
+
+
+
+
+
+
+
+

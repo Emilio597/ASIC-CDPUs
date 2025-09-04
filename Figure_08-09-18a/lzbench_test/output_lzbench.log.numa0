@@ -1,616 +1,0 @@
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                   1544 MB/s  1977 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=0.99s speed=214.39 MB/s     snappy 1.1.10            47.8 MB/s   214 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                   1079 MB/s  1899 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy 1.1.10             103 MB/s  18.2 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                   1545 MB/s  1508 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=0.30s speed=705.13 MB/s     snappy decompr iter=2 time=0.56s speed=1076.40 MB/s     snappy decompr iter=3 time=0.82s speed=1071.07 MB/s     snappy decompr iter=4 time=1.07s speed=1072.38 MB/s     snappy decompr iter=5 time=1.32s speed=1062.89 MB/s     snappy decompr iter=6 time=1.59s speed=1046.21 MB/s     snappy decompr iter=7 time=1.86s speed=1061.08 MB/s     snappy 1.1.10            26.9 MB/s  1076 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                   1569 MB/s  1427 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy 1.1.10            15.1 MB/s  97.0 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                   1339 MB/s  1656 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy 1.1.10            16.8 MB/s  82.1 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    293 MB/s   256 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy compr iter=1 time=0.99s speed=213.48 MB/s     snappy decompr iter=1 time=1.05s speed=202.73 MB/s     snappy 1.1.10             243 MB/s   202 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    238 MB/s   187 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.08s speed=195.60 MB/s     snappy 1.1.10             181 MB/s   200 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    183 MB/s   168 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy 1.1.10             146 MB/s   101 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    147 MB/s   170 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy 1.1.10             146 MB/s   105 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    183 MB/s   162 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy 1.1.10             147 MB/s  97.1 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    181 MB/s   150 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy 1.1.10             148 MB/s  97.1 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    180 MB/s   162 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy 1.1.10             148 MB/s   100 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    177 MB/s   161 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy 1.1.10             146 MB/s   101 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    182 MB/s   159 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy 1.1.10             146 MB/s  96.1 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    184 MB/s   171 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy 1.1.10             147 MB/s  95.9 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    183 MB/s   162 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy 1.1.10             147 MB/s  95.6 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    181 MB/s   155 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy 1.1.10             147 MB/s  98.2 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    173 MB/s   168 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy 1.1.10             135 MB/s  99.1 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    180 MB/s   158 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy 1.1.10             147 MB/s  95.6 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    180 MB/s   183 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy 1.1.10             148 MB/s   100 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    191 MB/s   162 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.07s speed=197.56 MB/s     snappy 1.1.10             197 MB/s   216 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                   38.4 MB/s  24.2 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.44s speed=147.77 MB/s     snappy 1.1.10             104 MB/s   147 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    206 MB/s   216 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.07s speed=198.16 MB/s     snappy 1.1.10             107 MB/s   201 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    304 MB/s   216 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.44s speed=147.05 MB/s     snappy 1.1.10             110 MB/s   147 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    184 MB/s   168 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.40s speed=151.53 MB/s     snappy 1.1.10             155 MB/s   167 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    190 MB/s   165 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.41s speed=150.88 MB/s     snappy 1.1.10             155 MB/s   170 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    276 MB/s   177 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.45s speed=146.00 MB/s     snappy 1.1.10             128 MB/s   145 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    275 MB/s   183 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.43s speed=148.16 MB/s     snappy 1.1.10             139 MB/s   148 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    268 MB/s   201 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.44s speed=147.23 MB/s     snappy 1.1.10             125 MB/s   147 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    256 MB/s   173 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.42s speed=149.07 MB/s     snappy 1.1.10             151 MB/s   149 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    239 MB/s   213 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.47s speed=144.79 MB/s     snappy 1.1.10             142 MB/s   147 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    231 MB/s   178 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.44s speed=147.64 MB/s     snappy 1.1.10             157 MB/s   148 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    263 MB/s   172 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.44s speed=147.81 MB/s     snappy 1.1.10             131 MB/s   147 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    231 MB/s   183 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.50s speed=141.25 MB/s     snappy 1.1.10             155 MB/s   141 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    221 MB/s   174 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.49s speed=142.57 MB/s     snappy 1.1.10             155 MB/s   142 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    237 MB/s   174 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.42s speed=149.11 MB/s     snappy 1.1.10             156 MB/s   149 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    213 MB/s   168 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.81s speed=117.29 MB/s     snappy 1.1.10             158 MB/s   117 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    241 MB/s   173 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.43s speed=148.42 MB/s     snappy 1.1.10             156 MB/s   148 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    210 MB/s   167 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.53s speed=138.23 MB/s     snappy 1.1.10             153 MB/s   138 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    211 MB/s   174 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.42s speed=149.64 MB/s     snappy 1.1.10             139 MB/s   149 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    274 MB/s   161 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.41s speed=150.24 MB/s     snappy 1.1.10            99.9 MB/s   150 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    244 MB/s   197 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.43s speed=148.39 MB/s     snappy 1.1.10            93.6 MB/s   148 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    232 MB/s   166 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.44s speed=147.36 MB/s     snappy 1.1.10             130 MB/s   147 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    250 MB/s   267 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.44s speed=147.17 MB/s     snappy 1.1.10            95.5 MB/s   147 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    198 MB/s   154 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.63s speed=130.37 MB/s     snappy 1.1.10             154 MB/s   130 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    265 MB/s   205 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.44s speed=147.54 MB/s     snappy 1.1.10            93.7 MB/s   147 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    203 MB/s   173 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.51s speed=140.01 MB/s     snappy 1.1.10             151 MB/s   140 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    236 MB/s   167 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.42s speed=149.62 MB/s     snappy 1.1.10             118 MB/s   149 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    233 MB/s   158 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.42s speed=149.28 MB/s     snappy 1.1.10             122 MB/s   149 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    296 MB/s   202 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.45s speed=146.79 MB/s     snappy 1.1.10            89.8 MB/s   146 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    180 MB/s   170 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.48s speed=143.53 MB/s     snappy 1.1.10             153 MB/s   143 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    264 MB/s   209 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.46s speed=145.33 MB/s     snappy 1.1.10            89.4 MB/s   145 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    221 MB/s   184 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.43s speed=148.43 MB/s     snappy 1.1.10            99.6 MB/s   148 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    182 MB/s   185 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.50s speed=141.65 MB/s     snappy 1.1.10             151 MB/s   141 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    257 MB/s   189 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.45s speed=146.33 MB/s     snappy 1.1.10            99.4 MB/s   146 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    263 MB/s   190 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.43s speed=148.14 MB/s     snappy 1.1.10            94.9 MB/s   148 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    213 MB/s   172 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.42s speed=148.98 MB/s     snappy 1.1.10             105 MB/s   148 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    232 MB/s   181 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.48s speed=143.65 MB/s     snappy 1.1.10            98.5 MB/s   143 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    196 MB/s   293 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.44s speed=147.04 MB/s     snappy 1.1.10             105 MB/s   147 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    239 MB/s   160 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.40s speed=151.29 MB/s     snappy 1.1.10             106 MB/s   151 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    183 MB/s   192 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.62s speed=130.74 MB/s     snappy 1.1.10             147 MB/s   136 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    181 MB/s   172 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.43s speed=148.27 MB/s     snappy 1.1.10             104 MB/s   148 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    166 MB/s   191 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.69s speed=125.52 MB/s     snappy 1.1.10             146 MB/s   128 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    263 MB/s   203 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.44s speed=147.18 MB/s     snappy 1.1.10            91.7 MB/s   147 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    176 MB/s   166 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.45s speed=146.56 MB/s     snappy 1.1.10             127 MB/s   146 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    198 MB/s   160 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.45s speed=145.79 MB/s     snappy 1.1.10             111 MB/s   145 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    182 MB/s   183 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.87s speed=113.32 MB/s     snappy 1.1.10             148 MB/s   128 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    180 MB/s   176 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.49s speed=142.11 MB/s     snappy 1.1.10             146 MB/s   151 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    170 MB/s   159 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.46s speed=145.68 MB/s     snappy 1.1.10             115 MB/s   145 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    190 MB/s   182 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.48s speed=143.78 MB/s     snappy 1.1.10             115 MB/s   143 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    170 MB/s   162 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.45s speed=146.13 MB/s     snappy 1.1.10             132 MB/s   146 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    173 MB/s   170 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.98s speed=107.07 MB/s     snappy 1.1.10             145 MB/s   128 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    171 MB/s   161 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.47s speed=144.38 MB/s     snappy 1.1.10             129 MB/s   144 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    163 MB/s   164 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.43s speed=147.88 MB/s     snappy 1.1.10             146 MB/s   160 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    164 MB/s   159 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.43s speed=148.34 MB/s     snappy 1.1.10             151 MB/s   167 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    170 MB/s   148 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.43s speed=147.85 MB/s     snappy 1.1.10             140 MB/s   161 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    165 MB/s   161 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.44s speed=147.59 MB/s     snappy 1.1.10             141 MB/s   156 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    159 MB/s   178 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.87s speed=113.43 MB/s     snappy 1.1.10             147 MB/s   148 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    171 MB/s   187 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.82s speed=116.51 MB/s     snappy 1.1.10             147 MB/s   154 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    161 MB/s   172 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.59s speed=133.53 MB/s     snappy 1.1.10             149 MB/s   163 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    161 MB/s   164 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.49s speed=142.16 MB/s     snappy 1.1.10             150 MB/s   170 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    162 MB/s   166 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.49s speed=142.66 MB/s     snappy 1.1.10             151 MB/s   170 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    162 MB/s   162 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.46s speed=145.12 MB/s     snappy 1.1.10             150 MB/s   170 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    161 MB/s   167 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.60s speed=132.74 MB/s     snappy 1.1.10             149 MB/s   160 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    161 MB/s   160 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.43s speed=148.15 MB/s     snappy 1.1.10             150 MB/s   172 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    162 MB/s   164 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.46s speed=145.29 MB/s     snappy 1.1.10             150 MB/s   171 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    163 MB/s   190 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.55s speed=136.45 MB/s     snappy 1.1.10             147 MB/s   184 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)
-lzbench 1.8 (64-bit Linux)  Montage Jintide(R) C8458P
-Assembled by P.Skibinski
-
-Compressor name         Compress. Decompress. Compr. size  Ratio Filename
-memcpy                    133 MB/s   161 MB/s   211957760 100.00 /home/user/DataFiles/silesia_data/silesia.tar
-snappy decompr iter=1 time=1.80s speed=118.03 MB/s     snappy 1.1.10             148 MB/s   162 MB/s   122266679  57.68 /home/user/DataFiles/silesia_data/silesia.tar
-done... (cIters=0 dIters=1 cTime=1.0 dTime=2.0 chunkSize=4KB cSpeed=0MB)

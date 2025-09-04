@@ -1,0 +1,26 @@
+Compress ratio : 200 
+Capacity threshold under current cps ratio      : 6401252745216 bytes 
+Remaining free space under current cps ratio    : 6123397865472 bytes 
+Capacity protection warning threshold           : 87% 
+Capacity protection read only threshold         : 94% 
+Capacity protection exit warinig threshold      : 80% 
+Capacity protection exit read only threshold    : 87% 
+Capacity protection current percentage          : 1% 
+IOWriteCount                   : 1164346
+IOWriteFailCount               : 0
+sysGCWriteCount                : 0
+usrGCWriteCount                : 0
+rootTotalWrSizeKB              : 1912
+rootFgWrSizeKB                 : 1912
+sysTotalWrSizeKB               : 9466368
+sysFgWrSizeKB                  : 9465792
+usrTotalWrSizeKB               : 301235328
+usrFgWrSizeKB                  : 301231296
+sysWriteWA                     : 1.00
+usrWriteWA                     : 1.00
+unalignedHostWritePowerOnCount : 0
+unalignedHostWriteTotalCount   : 0
+WrPadReadErr                   : 0
+wrUncCmdCnt                    : 0
+wrUncHitCnt                    : 0
+uaWrUncHitCnt                  : 0

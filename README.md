@@ -80,7 +80,7 @@ Detailed instructions per figure:
 - **Description:** Summarizes compression/decompression throughput for Deflate, QAT 8970, QAT 4xxx, DPZip (e.g., 5.6GB/s compression for DPZip).
 - **Environment:** Hardware-Accelerated.
 - **Steps:**
-  1. `cd Figure_08-09-18a/lzbench_test`.
+  1. `cd Figure_08-09-19a/lzbench_test`.
   2. Run `./run_lzbench.sh` (or `./run_lzbench_numa.sh` for NUMA-binding) to benchmark.
   3. For peak tests: `cd ../peak_test`, run subfolder scripts (e.g., for QAT 8970/4xxx).
   4. Plot: Use `python bw.py` on output logs (e.g., `output_lzbench.log`).
@@ -104,10 +104,10 @@ Detailed instructions per figure:
 - **Description:** End-to-end OPS under scaling concurrency for QAT, CPU, DP-CSD.
 - **Environment:** Hardware-Accelerated (requires RocksDB build).
 - **Steps:**
-  1. `cd Figure_14-15-19`.
-  2. Run `./run_test.sh` or `./run_all.sh` for workloads.
+  1. `cd Figure_14-15-20`.
+  2. Run`./run_all.sh` for workloads.
   3. Analyze: `cd analyze_thrpt`, run `python batch_collect.py` and `python cal_thrpt.py`.
-  4. Plot throughput: Use `cal_ycsb` scripts like `python recalculate_throghput_and_avg_for_all_test.py`.
+  4. Plot throughput: draw_xxx.py
 
 ### Figure 15: YCSB Read Latency (RocksDB Workloads A & F)
 - **Description:** Average latency across configurations.
@@ -118,10 +118,16 @@ Detailed instructions per figure:
 - **Description:** Throughput/loss in async compression; latency with read amplification (e.g., 5μs overhead for DP-CSD).
 - **Environment:** Hardware-Accelerated (Btrfs setup).
 - **Steps:**
-  1. `cd Figure_16-18b/version_CDF`.
+  1. `cd Figure_16-17-19b/version_CDF`.
   2. Set env: `./set_variables_new.sh`.
   3. Run `./run_throughput_test_CDF.sh` with FIO configs.
   4. Stats: `./stat_cpuutil_power.sh`.
+
+### Figure 16: Btrfs Throughput and Latency
+- **Description:** Throughput/loss in async compression; latency with read amplification (e.g., 5μs overhead for DP-CSD).
+- **Environment:** Hardware-Accelerated (Btrfs setup).
+- **Steps:**
+  same as Figure 16
 
 ### Figure 18: ZFS Latency Across Record Sizes
 - **Description:** Latency for CPU, QAT, etc., across 4KB–128KB (higher for CPU).
@@ -134,12 +140,12 @@ Detailed instructions per figure:
 ### Figure 19: Power Efficiency (Microbenchmarks and Btrfs)
 - **Description:** MB/J for DPZip (169–395) vs. others; CPU utilization.
 - **Environment:** Hardware-Accelerated.
-- **Steps:** Use data from Figure 14-15-19; run power scripts like `collect_thrpt_and_power_verbose.py`.
+- **Steps:** Use data from Figure_08-09-19a and Figure 16-17-19b; run power scripts like `collect_thrpt_and_power_verbose.py`.
 
 ### Figure 20: Power Efficiency in RocksDB (YCSB)
 - **Description:** OPS/J for DPZip (up to 5224) vs. QAT/CPU.
 - **Environment:** Hardware-Accelerated.
-- **Steps:** Similar to Figure 14; aggregate in `stats_aggr_workloada/print_each_task_power.py`.
+- **Steps:** Similar to Figure Figure_14-15-20 aggregate in `stats_aggr_workloada/print_each_task_power.py`.
 
 ## Contributing and License
 Contributions welcome for improvements or ports to new hardware. Licensed under MIT; see individual folders for third-party code (e.g., Zstd under BSD).

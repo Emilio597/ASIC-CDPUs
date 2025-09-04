@@ -1,0 +1,14 @@
+[global]
+rw=randwrite
+bs=64K
+iodepth=1           
+direct=1
+ioengine=libaio
+buffer_pattern='/home/user/Programs/peak_test/multiple_ssds_test/replace_files/ent_64k_compress37.bin'
+group_reporting
+time_based
+runtime=20
+
+[job1]
+filename=/dev/nvme0n1
+write_iolog=./trace_dir/trace_1.log

@@ -1,0 +1,8 @@
+#############################################################
+align: (g=0): rw=randread, bs=(R) 4096B-4096B, (W) 4096B-4096B, (T) 4096B-4096B, ioengine=psync, iodepth=1
+fio-3.35-118-g4a0c76
+Starting 1 process
+
+fio: terminating on signal 2
+
+fio: terminating on signal 2

@@ -1,3 +1,0 @@
-READ      29.436091
-UPDATE    35.951455
-dtype: float64
