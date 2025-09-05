@@ -15,7 +15,7 @@ for file in "${files[@]}"; do
     # 执行1000次
     for i in $(seq 1 1000); do
         # 执行命令并捕获输出
-        output=$(taskset -c 1 ./zstd -3 "./test_data/$file" -f 2>&1)
+        output=$(taskset -c 1 ./zstd/zstd -3 "./test_data/$file" -f 2>&1)
 
         # 提取每个阶段的时延
         lz77_time=$(echo "$output" | grep "ZSTD_buildSeqStore" | awk '{print $5}')

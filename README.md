@@ -1,176 +1,263 @@
-# ASIC-based Compression Accelerators for Storage Systems: Code and Scripts for Paper Figures
+# ASIC-based Compression Accelerators for Storage Systems — Artifact (EuroSys’26)
 
-## Project Overview
+**Artifact type:** Code + scripts + data generators to reproduce paper figures  
+**Target badges:** _Artifacts Available_, _Artifacts Functional_, _Results Reproduced (subset/full, depending on hardware)_
 
-This repository contains the open-source test code, scripts, and supporting files used to generate the experimental results and figures in the paper titled "ASIC-based Compression Accelerators for Storage Systems: Design, Placement, and Profiling Insights." The paper explores modern compression algorithms (e.g., Zstd, Deflate, LZ4, Snappy) and hardware accelerators (e.g., DPZip, QAT 8970, QAT 4xxx, DP-CSD) in storage systems, focusing on metrics like compression ratio, throughput, latency, power efficiency, and robustness across varying parameters such as block sizes (4KB–128KB), compression levels, and data entropy.
+## 0) What this artifact demonstrates (claims we validate)
 
-Key findings from the paper include:
-- LZ77 operations dominate computational costs in algorithms like Zstd, especially at higher compression levels.
-- DPZip matches or outperforms traditional compressors in ratio and throughput, with superior robustness on incompressible data.
-- Larger I/O granularities (e.g., 64KB) boost throughput but may increase read amplification.
-- Hardware placement (e.g., in-storage vs. on-chip) impacts latency and efficiency.
-- DP-CSD achieves the highest power efficiency across device, system, and application levels (e.g., up to 5224 OPS/J in RocksDB workloads).
+- **C1. Cost dominance.** LZ77-family stages dominate CPU-side cost in Zstd-like compressors; effect increases with compression level.  
+- **C2. Robustness.** DPZip is competitive or better on ratio/throughput and drops less on near-incompressible data.  
+- **C3. Granularity.** Larger I/O granularities (e.g., 64 KB) increase throughput but may elevate read amplification.  
+- **C4. Placement.** Accelerator placement (in-storage vs. host/on-chip) materially impacts performance and energy.
 
-The code is organized into folders named after the corresponding figures (e.g., `Figure_02`, `Figure_07`). Each folder includes scripts for running tests, processing data, and generating plots. This allows reproduction of the experiments on similar hardware setups.
+Each figure folder contains scripts to regenerate the corresponding results. CPU-only figures reproduce on any recent x86_64 Linux; hardware figures require the listed accelerators.
 
-**Note:** Results may vary based on exact hardware, software versions, and workloads. The code assumes access to specific accelerators (e.g., Intel QAT, DP-CSD) for hardware-related tests.
+---
 
-## Environment Setup
+## 1) Repository layout (high-level)
 
-The experiments use two primary environments due to the mix of software-only and hardware-accelerated tests:
+```
+Figure_02/                  # Zstd algorithm analysis (CPU-only)
+Figure_07/                  # Compression ratio comparison (CPU-only)
+Figure_08-09-19a/           # 4KB / 64KB throughput; power (QAT 8970 focus)
+Figure_11/                  # QAT latency breakdown (post-processing)
+Figure_12/                  # Robustness across compressibility (plotting)
+Figure_14-15-20/            # RocksDB+YCSB end-to-end throughput, latency, OPS/J
+Figure_16-17-19b/           # Btrfs async compression: thr/lat + power (Linux 6.9.0 + patch)
+Figure_18/                  # ZFS latency vs. record size (QAT/CPU)
+```
 
-1. **Software-Only Environment (CPU-based):**
-   Used for algorithm analysis, compression ratio comparisons, and some microbenchmarks.
+> Each figure folder has: `README.md` (short), `run_*.sh` or `*.py` (driver), `draw_*.py` (plot), and output directory hints.
 
-   * **OS:** Ubuntu 20.04 or later (tested on Linux kernel 5.15, 6.5, 6.9).
-   * **CPU:** Intel Xeon 8458P.
-   * **Dependencies:**
+---
 
-     * Python 3.8+ with `numpy`, `matplotlib`, `pandas` (`pip install numpy matplotlib pandas`).
-     * C/C++ compiler (e.g., GCC 9+).
-     * Compression libraries: Zstd (v1.5.2+), zlib, LZ4, Snappy.
-     * Tools: `make`, `cmake`.
+## 2) Quick start (pick one path)
 
-2. **Hardware-Accelerated Environment:**
-   Used for throughput, latency, and power tests involving accelerators like QAT 8970, QAT 4xxx, DPZip, and DP-CSD.
+### Path A — **CPU-only (fastest smoke test)**
+Reproduces Figures **2, 7, 11, 12** plots from locally generated or provided data.
 
-   * **Hardware:** Intel QAT 8970 (PCIe card), QAT 4xxx (on-chip), DP-CSD, SSDs/NAND.
-   * **Dependencies:** Same as above, plus `fio`, `iostat`, `perf`, RocksDB, Btrfs, ZFS.
-   * **Drivers:** Intel QAT drivers (QATlib) and custom drivers for DP-CSD.
+```bash
+# Python env (conda or venv)
+python3 -m venv .venv && source .venv/bin/activate
+pip install -U pip numpy pandas matplotlib
 
-### Kernel Requirements
+# Figure 02
+cd Figure_02 && cd zstd/build/cmake && cmake . && make && ../../test.sh
+python draw.py                         # regenerates Figure 2
 
-Different experiments require different Linux kernels:
+# Figure 07
+cd ../Figure_07
+python dpzip_vs_zstd_4k.py
+python dpzip_vs_zstd_64k.py
+```
 
-* **Linux 6.9.0 (with patch):**
-  Required for Btrfs experiments in **Figure 16, Figure 17, and Figure 19b**.
+### Path B — **Full hardware (QAT / DPZip / DP-CSD)**
+Requires drivers, kernel setup, and boards present. See **Environment & Kernel** and per-figure sections below.
 
-  * Patch file: `Figure_16-17-19b/linux6.9.0.patch`.
-  * Apply patch to vanilla 6.9.0 source and build a custom kernel manually.
+---
 
-* **Linux 5.15:**
-  Used for QAT 8970 experiments in **Figure 8, Figure 9, and Figure 19a**.
+## 3) Environment & dependencies
 
-* **Linux 6.5:**
-  Default kernel for most other experiments, including SSD tests, QAT 4xxx experiments, and all other figures not explicitly listed above.
+### 3.1 Software-only environment
+- **OS:** Ubuntu 20.04+ (tested with Linux **5.15**, **6.5**, **6.9**).  
+- **CPU:** x86_64 (tested on Intel Xeon 8458P).  
+- **Tooling:** `gcc` (9+), `cmake`, `make`, Python 3.8+ (`numpy`, `pandas`, `matplotlib`).  
+- **Compression libs:** Zstd (≥1.5.2), zlib, LZ4, Snappy.
 
-Figures using **Software-Only Environment**: Figure 2, 7, 11, 12 (primarily analysis and plotting).
-Figures using **Hardware-Accelerated Environment**: Figure 8, 9, 14, 15, 16, 18, 19, 20 (involve QAT, DP-CSD, or storage systems).
+### 3.2 Hardware-accelerated environment
+- **Accelerators (any subset):** Intel **QAT 8970** (PCIe), **QAT 4xxx** (on-chip), **DPZip**, **DP-CSD**.  
+- **Storage stacks:** SSD(s)/NAND, RocksDB (built w/ compression), Btrfs, ZFS.  
+- **Tools:** `fio`, `iostat`, `perf`, YCSB, RocksDB, `numactl`, pinning helpers in `common/`.  
+- **Drivers:** Intel QAT (QATlib) and device-specific drivers for DP-CSD/DPZip. Ensure driver version matches your kernel.
 
-**General Tips:**
-- Activate the environment: `conda activate soft-env` or similar.
-- Data Generation: Use tools like `datagen` in Zstd for synthetic data with varying entropy.
-- Workloads: YCSB for RocksDB (requires building RocksDB with compression enabled).
+> **Power measurement:** CPU via RAPL; accelerators via vendor telemetry (QAT tools, DP-CSD APIs). If telemetry is unavailable, power-related figures will be marked **N/A**.
 
-## Usage and Testing Methods
+---
 
-To reproduce a figure:
-1. Navigate to the corresponding folder.
-2. Ensure the correct kernel version (see **Kernel Requirements**).
-3. Run the provided test/execution script(s) to generate data.
-4. Use the drawing script (Python) to plot results.
+## 4) Kernel requirements (when and why)
 
-Detailed instructions per figure:
+Some figures rely on kernel features/behavior for QAT + filesystems.
 
-### Figure 2: Zstd Algorithm Analysis
-- **Description:** Analyzes LZ77 dominance, entropy coding impact, and parameter effects (chunk size, compression level, entropy).
-- **Environment:** Software-Only.
-- **Steps:**
-  1. Build Zstd: `cd Figure_02/build/cmake && cmake . && make`.
-  2. Run tests: `./test.sh` (executes benchmarks on modified Zstd code).
-  3. Generate plot: `python draw.py` (uses data from tests to plot computational costs).
+- **Linux 6.9.0 + patch** — Required for **Btrfs** experiments (**Fig. 16, 17, 19b**).  
+  Patch: `Figure_16-17-19b/linux6.9.0.patch`
 
-### Figure 7: Compression Ratio Comparison
-- **Description:** Compares ratios across algorithms (DPZip, Deflate, Zstd, Snappy, LZ4) at 4KB and 64KB blocks.
-- **Environment:** Software-Only.
-- **Steps:**
-  1. Run `python dpzip_vs_zstd_4k.py` for 4KB results.
-  2. Run `python dpzip_vs_zstd_64k.py` for 64KB results (plots percentiles automatically).
+  ```bash
+  # Example flow (run on your build host)
+  tar xf linux-6.9.0.tar.xz && cd linux-6.9.0
+  patch -p1 < ../Figure_16-17-19b/linux6.9.0.patch
+  make olddefconfig && make -j$(nproc)
+  sudo make modules_install && sudo make install
+  # Reboot into 6.9.0-patched and verify with: uname -r
+  ```
 
-### Figure 8: Throughput at 4KB Granularity
-- **Description:** Compares compression/decompression throughput across hardware accelerators and CPU-based algorithms at 4KB block granularity.
-- **Environment:** Hardware-Accelerated.
-- **Steps:**
-  1. `cd Figure_08-09-19a/lzbench_test`.
-  2. Run `./run_lzbench.sh` or `./run_lzbench_numa.sh` for NUMA-binding tests.
-  3. For peak tests: `cd ../peak_test`, run scripts in `qat_8970/`, `qat_4xxx/` subfolders.
-  4. Generate plot: `python draw_figure8.py`.
+- **Linux 5.15** — Used for **QAT 8970** experiments (**Fig. 8, 9, 19a**) due to driver support.  
+- **Linux 6.5** — Default kernel for the rest (QAT 4xxx, SSD tests; any figure not listed above).
 
-### Figure 9: Throughput at 64KB Granularity
-- **Description:** Shows throughput improvements with larger I/O granularity (64KB) across different compression methods.
-- **Environment:** Hardware-Accelerated.
-- **Steps:**
-  1. `cd Figure_08-09-19a/lzbench_test`.
-  2. Run `./run_lzbench.sh` or `./run_lzbench_numa.sh` (configured for 64KB blocks).
-  3. For peak tests: `cd ../peak_test`, test accelerators in respective subfolders.
-  4. Generate plot: `python draw_figure9.py`.
+---
 
-### Figure 11: QAT Latency Breakdown
-- **Description:** Illustrates processing flow and latency (e.g., 448ns for QAT 4xxx on 64KB).
-- **Environment:** Software-Only (post-processing).
-- **Steps:** Run `python draw.py` (assumes telemetry data from hardware tests; collect via QAT tools).
+## 5) Reproduction matrix (figure → scripts → outputs → tolerance)
 
-### Figure 12: Performance Robustness
-- **Description:** DPZip vs. QAT robustness across compressibility (e.g., <15% drop for DPZip).
-- **Environment:** Software-Only (plotting).
-- **Steps:** Run `python draw.py` (uses data from throughput tests).
+| Fig | Topic | Env | Entry point(s) | Primary outputs | Validation / tolerance |
+|---|---|---|---|---|---|
+| 2 | Zstd stage breakdown & parameter effects | CPU | `Figure_02/build_and_test.sh` → `draw.py` | `out/figure2.pdf\|png` | Stage shares & trends match; absolute times may vary ±20% |
+| 7 | Ratio comparison (4 KB vs 64 KB) | CPU | `dpzip_vs_zstd_4k.py`, `dpzip_vs_zstd_64k.py` | `out/figure7_4k.png`, `out/figure7_64k.png` | Ratios within ±0.5 % absolute; ordering consistent |
+| 8 | 4 KB throughput (CPU vs QAT/DPZip/DP-CSD) | HW | `Figure_08-09-19a/lzbench_test/run_lzbench*.sh` → `draw_figure8.py` | `out/figure8.png` | Within ±15 % of paper; trends preserved |
+| 9 | 64 KB throughput | HW | same path as Fig.8, configured for 64 KB → `draw_figure9.py` | `out/figure9.png` | ±15 % |
+| 11 | QAT latency breakdown (post-proc) | CPU (post) | `Figure_11/draw.py` | `out/figure11.png` | Component breakdown present; absolute ns may differ |
+| 12 | Robustness vs. compressibility | CPU (post) | `Figure_12/draw.py` | `out/figure12.png` | DPZip drop <≈ expected threshold; shapes match |
+| 14 | YCSB OPS scaling (RocksDB A/F) | HW | `Figure_14-15-20/run_all.sh` → `analyze_thrpt/*.py` → `draw_figure14.py` | `out/figure14.png` | Within ±15 % OPS; crossover points consistent |
+| 15 | YCSB read latency | HW | `run_lat_test.sh` → `cal_ycsb/cal_avg_lat.py` → `draw_figure15.py` | `out/figure15.png` | ±15 % |
+| 16,17 | Btrfs thr/lat (async comp + RA) | HW (6.9+patch) | `Figure_16-17-19b/version_CDF/*.sh` | `out/figure16.png`, `out/figure17.png` | ±15 % |
+| 18 | ZFS latency vs record size | HW | `Figure_18/zfs_qat_test/run_test.sh` → `comp_ratio_test.sh` | `out/figure18.png` | ±15 % |
+| 19a | Power (microbench, QAT 8970) | HW | `Figure_08-09-19a/*` + `collect_thrpt_and_power_verbose.py` | `out/figure19a.png` | ±20 % MB/J; ordering preserved |
+| 19b | Power (Btrfs) | HW (6.9+patch) | `Figure_16-17-19b/draw_figure19ab.py` | `out/figure19b.png` | ±20 % MB/J |
+| 20 | OPS/J (RocksDB+YCSB) | HW | `stats_aggr_workloada/print_each_task_power.py` → `draw_figure20.py` | `out/figure20.png` | ±20 % OPS/J |
 
-### Figure 14: YCSB Throughput (RocksDB Workloads A & F)
-- **Description:** Measures end-to-end OPS under scaling concurrency for QAT, CPU, and DP-CSD.
-- **Environment:** Hardware-Accelerated (requires RocksDB build).
-- **Steps:**
-  1. `cd Figure_14-15-20`.
-  2. Run `./run_all.sh` for workloads.
-  3. Analyze results: `cd analyze_thrpt`, run `python batch_collect.py` and `python cal_thrpt.py`.
-  4. Generate plot: `python draw_figure14.py`.
+> If your hardware lacks a device, the corresponding figure can be generated with the **available subsets**; missing series appear as **N/A**.
 
+---
 
-### Figure 15: YCSB Read Latency (RocksDB Workloads A & F)
-- **Description:** Evaluates average latency across different configurations.
-- **Environment:** Hardware-Accelerated.
-- **Steps:**
-  1. `cd Figure_14-15-20`.
-  2. Run `./run_lat_test.sh`.
-  3. Calculate average latency: `python cal_ycsb/cal_avg_lat.py`.
-  4. Generate plot: `python draw_figure15.py`.
+## 6) Determinism, pinning, and data
 
-### Figure 16, 17: Btrfs Throughput and Latency
+- **Seeds:** Scripts accept `AE_SEED` (default provided where relevant) for synthetic data.  
+  Example: `AE_SEED=20250101 python dpzip_vs_zstd_64k.py`
+- **CPU isolation:** Use our helpers (e.g., `common/pin.sh`, `numactl`) to pin workers to a socket and set the governor to `performance`.  
+- **Background noise:** Close other workloads; disable turbo if you need tighter bounds; ensure cool/consistent thermals.  
+- **Compression integrity:** All throughput tests perform **round-trip checks** (decompress == original). Failures abort the run.
 
-* **Description:** Evaluates throughput and latency in asynchronous compression with read amplification.
-* **Kernel Requirement:** Must use Linux 6.9.0 **with patch** (`Figure_16-17-19b/linux6.9.0.patch`). Compile and install manually before testing.
-* **Steps:**
+---
 
-  1. Apply patch to Linux 6.9.0, compile, reboot into patched kernel.
-  2. `cd Figure_16-17-19b/version_CDF`.
-  3. Set environment variables: `./set_variables_new.sh`.
-  4. Run throughput tests: `./run_throughput_test_CDF.sh`.
-  5. Collect statistics: `./stat_cpuutil_power.sh`.
+## 7) Per-figure walkthrough (concise)
 
-### Figure 18: ZFS Latency Across Record Sizes
-- **Description:** Measures latency for CPU, QAT, and other configurations across various record sizes.
-- **Environment:** Hardware-Accelerated (ZFS setup).
-- **Steps:**
-  1. `cd Figure_18/zfs_qat_test`.
-  2. Run tests: `./run_test.sh`.
-  3. Calculate compression ratios: `./comp_ratio_test.sh`.
+### Figure 2 — Zstd algorithm analysis (CPU-only)
+```bash
+cd Figure_02
+cd zstd/build/cmake && cmake . && make
+cd ../.. && ./test.sh
+python draw.py
+```
 
-### Figure 19: Power Efficiency (Microbenchmarks and Btrfs)
-- **Description:** Analyzes power efficiency (MB/J) for DPZip compared to other methods.
-- **Environment:** Hardware-Accelerated.
-- **Steps:**
-  1. Use data from `Figure_08-09-19a` and `Figure_16-17-19b`.
-  2. Run power scripts: `collect_thrpt_and_power_verbose.py`.
-  3. Generate plot: `python draw_figure19ab.py` (in Figure_16-17-19b).
+### Figure 7 — Ratio comparison (CPU-only)
+```bash
+cd Figure_07
+python dpzip_vs_zstd_4k.py
+python dpzip_vs_zstd_64k.py
+```
 
-### Figure 20: Power Efficiency in RocksDB (YCSB)
-- **Description:** Analyzes OPS/J for DPZip compared to QAT and CPU.
-- **Environment:** Hardware-Accelerated.
-- **Steps:**
-  1. `cd Figure_14-15-20`.
-  2. Aggregate results: `python stats_aggr_workloada/print_each_task_power.py`.
-  3. Generate plot: `python draw_figure20.py`.
+### Figures 8 & 9 — Throughput @4 KB / @64 KB (hardware)
+```bash
+cd Figure_08-09-19a/lzbench_test
+./run_lzbench.sh         # baseline
+./run_lzbench_numa.sh    # NUMA-bound variant
+cd ../peak_test/qat_8970 # or qat_4xxx/
+# run the device-specific scripts, then:
+cd ../../
+python draw_figure8.py
+python draw_figure9.py
+```
 
-## Contributing and License
-Contributions welcome for improvements or ports to new hardware. Licensed under MIT; see individual folders for third-party code (e.g., Zstd under BSD).
+### Figure 11 — QAT latency breakdown (post-proc)
+```bash
+cd Figure_11
+python draw.py  # consumes telemetry exported from QAT tools
+```
 
-For issues, contact the authors. Results reproduction requires matching hardware; software-only figures are easier to replicate.
+### Figure 12 — Robustness (plot-only)
+```bash
+cd Figure_12
+python draw.py
+```
+
+### Figures 14, 15, 20 — RocksDB + YCSB
+```bash
+cd Figure_14-15-20
+./run_all.sh                     # workload A/F throughput
+./run_lat_test.sh                # latency runs
+cd analyze_thrpt && python batch_collect.py && python cal_thrpt.py && cd ..
+python draw_figure14.py
+python cal_ycsb/cal_avg_lat.py
+python draw_figure15.py
+python stats_aggr_workloada/print_each_task_power.py
+python draw_figure20.py
+```
+
+### Figures 16, 17, 19b — Btrfs (Linux 6.9.0 + patch)
+```bash
+# Boot the patched kernel first (see §4)
+cd Figure_16-17-19b/version_CDF
+./set_variables_new.sh
+./run_throughput_test_CDF.sh
+./stat_cpuutil_power.sh
+cd ..
+python draw_figure19ab.py
+```
+
+### Figure 18 — ZFS latency
+```bash
+cd Figure_18/zfs_qat_test
+./run_test.sh
+./comp_ratio_test.sh
+```
+
+---
+
+## 8) Hardware/driver notes & fallbacks
+
+- **Intel QAT**: Install QATlib matching your kernel; enable hugepages if recommended by your driver; ensure device nodes are present.  
+- **DP-CSD / DPZip**: Load vendor drivers/modules and user-space libs per your board guide.  
+- **Power**: If accelerator telemetry is unavailable, skip power figures (scripts will mark series **N/A**).
+
+---
+
+## 9) Common pitfalls (checklist)
+
+- [ ] Kernel mismatch with QAT driver → device not enumerated.  
+- [ ] CPU scaling governor not set to `performance` → noisy latency/throughput.  
+- [ ] NUMA mis-pinning → underutilization.  
+- [ ] Filesystem caching interference → follow the per-figure scripts that set mount options and drop caches where appropriate.  
+- [ ] RAPL permissions → ensure access to `/sys/class/powercap/intel-rapl:*`.
+
+---
+
+## 10) Licensing, data, and ethics
+
+- **License:** MIT for our code; third-party libs under their respective licenses (e.g., Zstd BSD).  
+- **Data:** Synthetic data generators included; RocksDB/YCSB workloads produce non-sensitive data.  
+- **Drivers/firmware:** Subject to vendor EULAs (QAT, DP-CSD/DPZip). We do not redistribute proprietary blobs.
+
+---
+
+## 11) Citation
+
+If you use this artifact, please cite:
+
+> _ASIC-based Compression Accelerators for Storage Systems: Design, Placement, and Profiling Insights._ EuroSys’26.  
+> (Add DOI once available.)
+
+```
+@inproceedings{dpzip-eurosys26,
+  title={ASIC-based Compression Accelerators for Storage Systems: Design, Placement, and Profiling Insights},
+  booktitle={EuroSys '26},
+  year={2026}
+}
+```
+
+---
+
+## 12) Support
+
+Open an issue in this repository. When reporting results, include:
+- OS + kernel (`uname -a`), CPU model, accelerator model/driver versions  
+- Exact command lines used and the figure folder  
+- The produced `out/*.json|csv|png` and any logs under `logs/`
+
+---
+
+### Appendix A — Minimal verification targets
+
+- **CPU-only smoke:** Fig. 2 & Fig. 7 regenerate without hardware.  
+- **QAT-only subset:** Fig. 8/9 + 11 + 18; 19a if telemetry available.  
+- **Full hardware:** All figures including 16/17/19b (Btrfs, patched 6.9.0) and 14/15/20 (RocksDB+YCSB).
+
+> Exact numeric equality is **not** required; we check **shape/order** and accept the tolerances in §5.
+
