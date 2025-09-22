@@ -235,10 +235,15 @@ If you use this artifact, please cite:
 > (Add DOI once available.)
 
 ```
-@inproceedings{dpzip-eurosys26,
-  title={ASIC-based Compression Accelerators for Storage Systems: Design, Placement, and Profiling Insights},
-  booktitle={EuroSys '26},
-  year={2026}
+@inproceedings{lu2026asiccompression,
+  author    = {Tao Lu and Jiapin Wang and Yelin Shan and Xiangping Zhang and Xiang Chen},
+  title     = {ASIC-based Compression Accelerators for Storage Systems: Design, Placement, and Profiling Insights},
+  booktitle = {Proceedings of the European Conference on Computer Systems (EuroSys '26)},
+  year      = {2026},
+  month     = apr,
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  location  = {Edinburgh, Scotland, UK}
 }
 ```
 
